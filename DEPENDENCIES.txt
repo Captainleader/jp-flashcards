@@ -1,0 +1,19 @@
+DEPENDENCIES
+
+This project requires the following runtime DLLs to be placed in the 'dlls/' folder:
+
+- SDL2.dll
+- SDL2_ttf.dll
+- SDL2_image.dll
+- SDL2_gfx.dll
+
+You can download these DLLs from their official sources:
+
+SDL2: https://www.libsdl.org/download-2.0.php  
+SDL2_ttf: https://www.libsdl.org/projects/SDL_ttf/  
+SDL2_image: https://www.libsdl.org/projects/SDL_image/  
+SDL2_gfx: https://github.com/a-hurst/sdl2-gfx/releases  
+
+After downloading and extracting the zip files, copy the DLL files into the 'dlls/' folder in your project directory.
+
+Run the program using 'run.bat' to ensure the DLLs are found at runtime.
