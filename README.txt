@@ -1,7 +1,7 @@
 Japanese Flashcard App (SDL2 + C++)
 Hi, I'm very new to coding in c++ so any feedback is appreciated.
 
-A lightweight flashcard application built using C++, SDL2, and SDL_ttf, designed to help users learn Japanese through romaji-to-hiragana conversion and spaced repetition.
+This is a lightweight flashcard application built using C++, SDL2, and SDL_ttf, designed to help users learn Japanese through romaji-to-hiragana conversion and spaced repetition.
 
 Features:
 - Type answers in romaji and convert to hiragana
