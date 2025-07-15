@@ -1,0 +1,2999 @@
+#1	行く	いく	go	3	2025:07:15:12:48:13
+#2	見る	みる	see, look at	3	2025:07:15:12:48:15
+#3	多い	おおい	a lot of, many	3	2025:07:15:12:48:40
+#4	家	いえ	home, household	3	2025:07:15:12:48:42
+#5	これ	これ	this, this one	3	2025:07:15:12:48:45
+#6	それ	それ	that, that one	3	2025:07:15:12:48:47
+#7	私	わたし	I	3	2025:07:15:12:48:50
+#8	仕事	しごと	work, job	3	2025:07:15:12:51:16
+#9	いつ	いつ	when	3	2025:07:15:12:48:53
+#10	する	する	do, make	1	2025:07:15:12:36:40
+#11	出る	でる	go out, leave	2	2025:07:15:12:36:58
+#12	使う	つかう	use, make use of	3	2025:07:15:12:48:59
+#13	所	ところ	place	3	2025:07:15:12:49:48
+#14	作る	つくる	make, create	3	2025:07:15:12:49:01
+#15	思う	おもう	think	3	2025:07:15:12:49:05
+#16	持つ	もつ	have, possess	1	2025:07:15:12:36:45
+#17	買う	かう	buy	3	2025:07:15:12:49:14
+#18	時間	じかん	time, hour	3	2025:07:15:12:49:22
+#19	知る	しる	know	3	2025:07:15:12:49:25
+#20	同じ	おなじ	same, identical	3	2025:07:15:12:49:30
+#21	今	いま	now	3	2025:07:15:12:49:33
+#22	新しい	あたらしい	new	3	2025:07:15:12:49:36
+#23	なる	なる	become	3	2025:07:15:12:49:39
+#24	まだ	まだ	(not) yet, still	3	2025:07:15:12:49:42
+#25	あと	あと	after	3	2025:07:15:12:49:44
+#26	聞く	きく	hear, ask	3	2025:07:15:12:49:50
+#27	言う	いう	say, tell	3	2025:07:15:12:49:52
+#28	少ない	すくない	few, little	3	2025:07:15:12:49:55
+#29	高い	たかい	high, tall	3	2025:07:15:12:50:08
+#30	子供	こども	child	3	2025:07:15:12:50:34
+#31	そう	そう	so, that way	1	2025:07:15:12:37:01
+#32	もう	もう	already, yet	3	2025:07:15:12:50:39
+#33	学生	がくせい	student	3	2025:07:15:12:51:20
+#34	熱い	あつい	hot (to touch)	3	2025:07:15:12:51:32
+#35	どうぞ	どうぞ	please	2	2025:07:15:12:37:43
+#36	午後	ごご	afternoon, p.m.	1	2025:07:15:12:37:42
+#37	長い	ながい	long	3	2025:07:15:12:50:59
+#38	本	ほん	book, volume	2	2025:07:15:12:37:48
+#39	今年	こんねん	this year (colloquial)	2	2025:07:15:12:36:41
+#40	よく	よく	often, well	3	2025:07:15:12:51:01
+#41	彼女	かのじょ	she, one’s girlfriend	2	2025:07:15:12:41:08
+#42	どう	どう	how, what	2	2025:07:15:12:36:43
+#43	言葉	ことば	word, language	2	2025:07:15:12:36:52
+#44	顔	かお	face	2	2025:07:15:12:37:06
+#45	終わる	おわる	finish, end	2	2025:07:15:12:37:13
+#46	一つ	ひとつ	one (thing)	2	2025:07:15:12:37:17
+#47	あげる	あげる	give, offer (colloquial)	2	2025:07:15:12:37:21
+#48	こう	こう	like this, such	2	2025:07:15:12:37:28
+#49	学校	がっこう	school	2	2025:07:15:12:37:36
+#50	くれる	くれる	be given	2	2025:07:15:12:37:40
+#51	始める	はじめる	start (something)	2	2025:07:15:12:40:58
+#52	起きる	おきる	get up, get out of bed	2	2025:07:15:12:41:01
+#53	春	はる	spring	2	2025:07:15:12:41:04
+#54	午前	ごぜん	morning, a.m.	2	2025:07:15:12:37:46
+#55	別	べつ	another, different	1	2025:07:15:12:37:04
+#56	どこ	どこ	where	1	2025:07:15:12:37:06
+#57	部屋	へや	room	1	2025:07:15:12:37:09
+#58	若い	わかい	young	0	2025:07:15:12:35:37
+#59	車	くるま	car, automobile	1	2025:07:15:12:37:19
+#60	置く	おく	put, place	0	2025:07:15:12:35:45
+#61	住む	すむ	live, reside	0	2025:07:15:12:35:49
+#62	働く	はたらく	work	1	2025:07:15:12:37:31
+#63	難しい	むずかしい	difficult	0	2025:07:15:12:35:59
+#64	先生	せんせい	teacher	1	2025:07:15:12:37:38
+#65	立つ	たつ	stand, rise	1	2025:07:15:12:37:45
+#66	呼ぶ	よぶ	call, name	1	2025:07:15:12:37:52
+#67	大学	だいがく	university, college	1	2025:07:15:12:37:59
+#68	安い	やすい	cheap, inexpensive	0	0
+#69	もっと	もっと	more	0	0
+#70	帰る	かえる	go back home	0	0
+#71	分かる	わかる	understand	0	0
+#72	広い	ひろい	wide, big	0	0
+#73	数	かず	number	0	0
+#74	近い	ちかい	near, close	0	0
+#75	そこ	そこ	there	0	0
+#76	走る	はしる	run	0	0
+#77	入れる	いれる	put in	0	0
+#78	教える	おしえる	teach, tell	0	0
+#79	歩く	あるく	walk, go on foot	0	0
+#80	会う	あう	meet	0	0
+#81	書く	かく	write	0	0
+#82	頭	あたま	head	0	0
+#83	売る	うる	sell	0	0
+#84	大好き	だいすき	like (something) a lot	0	0
+#85	体	からだ	body, physique	0	0
+#86	直ぐ	すぐ	at once, soon	0	0
+#87	飛ぶ	とぶ	fly	0	0
+#88	とても	とても	very (colloquial)	0	0
+#89	誰	だれ	who	0	0
+#90	好き	すき	favorite, liked	0	0
+#91	読む	よむ	read	0	0
+#92	次	つぎ	next	0	0
+#93	あなた	あなた	you	0	0
+#94	飲む	のむ	drink	0	0
+#95	古い	ふるい	old	0	0
+#96	質問	しつもん	question	0	0
+#97	今日	きょう	today (colloquial)	0	0
+#98	友達	ともだち	friend, companion (colloquial)	0	0
+#99	早い	はやい	early	0	0
+#100	どれ	どれ	what, which	0	0
+#101	美しい	うつくしい	beautiful	0	0
+#102	いつも	いつも	always (colloquial)	0	0
+#103	足	あし	leg, foot	0	0
+#104	起こす	おこす	wake (someone) up	0	0
+#105	見せる	みせる	show	0	0
+#106	娘	むすめ	daughter, girl	0	0
+#107	楽しむ	たのしむ	enjoy	0	0
+#108	色	いろ	color	0	0
+#109	みんな	みんな	everybody (colloquial)	0	0
+#110	取る	とる	take, get	0	0
+#111	勉強	べんきょう	study	0	0
+#112	できる	できる	can do, be good at	0	0
+#113	短い	みじかい	short, brief	0	0
+#114	落ちる	おちる	fall, come down	0	0
+#115	息子	むすこ	son	0	0
+#116	白い	しろい	white, blank	0	0
+#117	飛行機	ひこうき	airplane	0	0
+#118	病気	びょうき	illness	0	0
+#119	冬	ふゆ	winter	0	0
+#120	年	ねん	year, age	0	0
+#121	重い	おもい	heavy	0	0
+#122	胸	むね	chest, breast	0	0
+#123	払う	はらう	pay (money, respect, attention, etc.)	0	0
+#124	軽い	かるい	light (of weight)	0	0
+#125	見つける	みつける	find	0	0
+#126	忘れる	わすれる	forget, leave behind	0	0
+#127	酒	さけ	alcohol, rice wine	0	0
+#128	どちら	どちら	which (polite)	0	0
+#129	姉	あね	(one’s own) older sister	0	0
+#130	覚える	おぼえる	memorize, learn	0	0
+#131	狭い	せまい	narrow, small	0	0
+#132	赤い	あかい	red	0	0
+#133	着る	きる	wear, put on	0	0
+#134	笑う	わらう	laugh, smile	0	0
+#135	一番	いちばん	most, best	0	0
+#136	授業	じゅぎょう	class session, lecture	0	0
+#137	週	しゅう	week	0	0
+#138	漢字	かんじ	Chinese character	0	0
+#139	自転車	じてんしゃ	bicycle	0	0
+#140	電車	でんしゃ	train	0	0
+#141	探す	さがす	search for, look for	0	0
+#142	紙	かみ	paper	0	0
+#143	歌う	うたう	sing	0	0
+#144	遅い	おそい	slow, late	0	0
+#145	首	くび	neck	0	0
+#146	速い	はやい	fast	0	0
+#147	一緒に	いっしょに	together, at the same time	0	0
+#148	今月	こんげつ	this month	0	0
+#149	遊ぶ	あそぶ	play	0	0
+#150	遠い	とおい	far, distant	0	0
+#151	弱い	よわい	weak	0	0
+#152	耳	みみ	ear	0	0
+#153	座る	すわる	sit, sit down	0	0
+#154	右	みぎ	right	0	0
+#155	浴びる	あびる	take (a shower)	0	0
+#156	肩	かた	shoulder	0	0
+#157	寝る	ねる	lie down and sleep, go to sleep	0	0
+#158	消す	けす	switch off, turn off	0	0
+#159	元気	げんき	healthy, energetic	0	0
+#160	全部	ぜんぶ	all, whole	0	0
+#161	去年	きょねん	last year (colloquial)	0	0
+#162	引く	ひく	draw, pull	0	0
+#163	図書館	としょかん	library	0	0
+#164	上げる	あげる	raise, lift	0	0
+#165	緑	みどり	green	0	0
+#166	腕	うで	arm	0	0
+#167	ドア	どあ	door (loan word)	0	0
+#168	女の子	おんなのこ	little girl	0	0
+#169	男の子	おとこのこ	boy	0	0
+#170	私たち	わたしたち	we (colloquial)	0	0
+#171	近く	ちかく	near, close to	0	0
+#172	やる	やる	do, give	0	0
+#173	かなり	かなり	fairly, rather	0	0
+#174	国	くに	country	0	0
+#175	起こる	おこる	happen	0	0
+#176	秋	あき	autumn, fall	0	0
+#177	送る	おくる	send	0	0
+#178	死ぬ	しぬ	die	0	0
+#179	気持ち	きもち	feeling, sensation	0	0
+#180	乗る	のる	ride, take	0	0
+#181	いる	いる	be present, stay	0	0
+#182	木	き	tree, wood	0	0
+#183	開ける	ひらける	open, unlock (doors, windows, etc.)	0	0
+#184	閉める	しめる	shut, close (doors, windows, etc.)	0	0
+#185	続く	つづく	continue, follow	0	0
+#186	お医者さん	おいしゃさん	doctor (polite)	0	0
+#187	円	えん	Japanese yen	0	0
+#188	ここ	ここ	here	0	0
+#189	待つ	まつ	wait, wait for	0	0
+#190	低い	ひくい	low, short	0	0
+#191	もらう	もらう	receive	0	0
+#192	食べる	たべる	eat	0	0
+#193	兄	あに	(one’s own) older brother	0	0
+#194	名前	なまえ	name	0	0
+#195	夫	おっと	husband	0	0
+#196	一	いち	one	0	0
+#197	結婚	けっこん	marriage	0	0
+#198	親	おや	parent	0	0
+#199	話す	はなす	speak, talk	0	0
+#200	少し	すこし	a bit, a little while	0	0
+#201	閉じる	とじる	shut, close (books, eyes, etc.)	0	0
+#202	時	とき	time, moment	0	0
+#203	米	こめ	rice (grain)	0	0
+#204	切る	きる	cut	0	0
+#205	楽しい	たのしい	fun, enjoyable	0	0
+#206	服	ふく	clothes (colloquial)	0	0
+#207	後ろ	うしろ	back, behind	0	0
+#208	嬉しい	うれしい	happy, glad	0	0
+#209	腰	こし	waist, lower back	0	0
+#210	日曜日	にちようび	Sunday	0	0
+#211	昼	ひる	daytime, midday	0	0
+#212	お母さん	おかあさん	mother (colloquial)	0	0
+#213	大学生	だいがくせい	university student	0	0
+#214	終わり	おわり	end, conclusion	0	0
+#215	背	せ	height, stature	0	0
+#216	手伝う	てつだう	help, assist	0	0
+#217	鼻	はな	nose	0	0
+#218	起きる	おきる	occur, happen, wake up, get up	0	0
+#219	載せる	のせる	place, put on	0	0
+#220	悲しい	かなしい	sad	0	0
+#221	しゃべる	しゃべる	chat, talk	0	0
+#222	近く	ちかく	in the near future, before long	0	0
+#223	甘い	あまい	sweet	0	0
+#224	テーブル	てーぶる	table	0	0
+#225	食べ物	たべもの	food (colloquial)	0	0
+#226	始まる	はじまる	begin	0	0
+#227	ゲーム	げーむ	game	0	0
+#228	十	じゅう	ten	0	0
+#229	天気	てんき	weather	0	0
+#230	暑い	あつい	hot (of weather)	0	0
+#231	太い	ふとい	thick, fat	0	0
+#232	晩	ばん	evening, night (from sunset to bedtime)	0	0
+#233	土曜日	どようび	Saturday	0	0
+#234	痛い	いたい	sore, painful	0	0
+#235	お父さん	おとうさん	father, dad (colloquial)	0	0
+#236	多分	たぶん	probably, perhaps	0	0
+#237	時計	とけい	clock, watch	0	0
+#238	泊まる	とまる	stay overnight	0	0
+#239	どうして	どうして	how come	0	0
+#240	掛ける	かける	hang, put on	0	0
+#241	曲がる	まがる	make a turn, turn	0	0
+#242	お腹	おはら	stomach, belly	0	0
+#243	ミーティング	みーてぃんぐ	meeting	0	0
+#244	嫌い	きらい	dislike (habitual)	0	0
+#245	金曜日	きんようび	Friday	0	0
+#246	要る	いる	need, require	0	0
+#247	無い	ない	to not be	0	0
+#248	風邪	かぜ	cold (illness)	0	0
+#249	黄色い	きいろい	yellow	0	0
+#250	優しい	やさしい	gentle, kind	0	0
+#251	晴れる	はれる	be sunny, clear up	0	0
+#252	汚い	きたない	dirty	0	0
+#253	茶色	ちゃいろ	brown	0	0
+#254	空く	あく	be empty, become less crowded	0	0
+#255	上る	のぼる	go up, climb	0	0
+#256	ご飯	ごめし	meal, cooked rice	0	0
+#257	日	にち	counter for days	0	0
+#258	髪の毛	かみのけ	hair, each single hair	0	0
+#259	つける	つける	switch on, turn on	0	0
+#260	月曜日	げつようび	Monday	0	0
+#261	入る	いる	enter	0	0
+#262	カタカナ	かたかな	katakana	0	0
+#263	今週	こんしゅう	this week	0	0
+#264	開く	ひらく	open (books, eyes, etc.)	0	0
+#265	水	みず	water	0	0
+#266	あれ	あれ	that (over there)	0	0
+#267	二	に	two	0	0
+#268	締める	しめる	tighten, fasten	0	0
+#269	まずい	まずい	bad (taste), distasteful	0	0
+#270	平仮名	ひらがな	hiragana	0	0
+#271	曇る	くもる	become cloudy	0	0
+#272	触る	ふる	touch, feel	0	0
+#273	駄目	だめ	no good	0	0
+#274	飲み物	のみもの	beverage, drink	0	0
+#275	木曜日	もくようび	Thursday	0	0
+#276	曜日	ようび	day of the week	0	0
+#277	そば	そば	side, vicinity	0	0
+#278	こっち	こっち	here, this way (casual)	0	0
+#279	火曜日	かようび	Tuesday	0	0
+#280	渇く	かわく	be thirsty	0	0
+#281	三	さん	three	0	0
+#282	水曜日	すいようび	Wednesday	0	0
+#283	二つ	ふたつ	two (things)	0	0
+#284	今晩	こんばん	this evening, tonight	0	0
+#285	千	せん	thousand	0	0
+#286	六日	むいか	six days, sixth of the month	0	0
+#287	お姉さん	おねえさん	older sister	0	0
+#288	直る	なおる	be repaired, get fixed	0	0
+#289	ちょっと	ちょっと	just a moment, just a little	0	0
+#290	四	し	four (Japanese origin)	0	0
+#291	これから	これから	from now on, after this	0	0
+#292	考える	かんがえる	think, consider	0	0
+#293	戻る	もどる	return to a point of departure	0	0
+#294	変える	かえる	change (something), alter	0	0
+#295	朝	あさ	morning	0	0
+#296	歯	は	tooth	0	0
+#297	頑張る	がんばる	work hard, do one’s best	0	0
+#298	携帯電話	けいたいでんわ	cellular phone	0	0
+#299	雨	あめ	rain	0	0
+#300	金	きん	money (colloquial)	0	0
+#301	易しい	やさしい	easy, simple (colloquial)	0	0
+#302	お兄さん	おにいさん	older brother	0	0
+#303	大きい	おおきい	big	0	0
+#304	小さい	ちーさい	small	0	0
+#305	辛い	つらい	spicy, hot	0	0
+#306	八	はち	eight	0	0
+#307	あそこ	あそこ	over there	0	0
+#308	来る	くる	come	0	0
+#309	前	まえ	front, before	0	0
+#310	五日	いつか	five days, fifth of the month	0	0
+#311	いっぱい	いっぱい	full	0	0
+#312	酸っぱい	すっぱい	sour	0	0
+#313	違う	ちがう	differ, be wrong	0	0
+#314	細い	こまい	thin, slender	0	0
+#315	三つ	みっつ	three (things)	0	0
+#316	八日	ようか	eight days, eighth of the month	0	0
+#317	高校生	こうこうせい	high school student	0	0
+#318	上手	じょうず	good, skilled	0	0
+#319	強い	つよい	strong	0	0
+#320	七	しち	seven (Japanese origin)	0	0
+#321	二十日	はつか	20 days, 20th of the month	0	0
+#322	左	ひだり	left	0	0
+#323	二日	ふつか	two days, second of the month	0	0
+#324	四つ	よつ	four (things)	0	0
+#325	暖かい	あたたかい	warm	0	0
+#326	ある	ある	exist, there is	0	0
+#327	いい	いい	good (informal/spoken form)	0	0
+#328	上	うえ	up, above	0	0
+#329	駅	えき	train station	0	0
+#330	美味しい	おいしい	tasty	0	0
+#331	昨日	きのう	yesterday (colloquial)	0	0
+#332	綺麗	きれい	pretty, clean	0	0
+#333	五	ご	five	0	0
+#334	九つ	ここのつ	nine (things)	0	0
+#335	お願い	おねがい	favor	0	0
+#336	答える	こたえる	give an answer	0	0
+#337	先	さき	ahead, first	0	0
+#338	寒い	さむい	cold (temperature of the air)	0	0
+#339	四	し	four (Chinese origin)	0	0
+#340	三日	みっか	three days, third of the month	0	0
+#341	下	した	under, below	0	0
+#342	大丈夫	だいじょうぶ	all right, OK	0	0
+#343	大人	おとな	adult	0	0
+#344	出す	だす	take out	0	0
+#345	父	ちち	(speaker’s) father	0	0
+#346	母	はは	(speaker’s) mother	0	0
+#347	月	がつ	moon	0	0
+#348	妹	いもうと	younger sister	0	0
+#349	冷たい	つめたい	cold (to touch)	0	0
+#350	弟	おとうと	younger brother	0	0
+#351	手	て	hand	0	0
+#352	十日	とうか	ten days, tenth of the month	0	0
+#353	口	くち	mouth	0	0
+#354	夏	なつ	summer	0	0
+#355	七つ	ななつ	seven (things)	0	0
+#356	時々	ときどき	sometimes	0	0
+#357	何	なに	what	0	0
+#358	人	にん	person	0	0
+#359	一人	ひとり	one person	0	0
+#360	一日	ついたち	first of the month	0	0
+#361	九日	ここのか	nine days, ninth of the month	0	0
+#362	方	ほう	direction, side	0	0
+#363	他	ほか	other (Japanese origin)	0	0
+#364	僕	ぼく	I, me (usually used by young males)	0	0
+#365	欲しい	ほしい	want, desire (of the speaker)	0	0
+#366	万	まん	ten thousand	0	0
+#367	見える	みえる	be visible, can see	0	0
+#368	道	みち	street, way	0	0
+#369	五つ	いつつ	five (things)	0	0
+#370	目	め	eye	0	0
+#371	八つ	やつ	eight (things)	0	0
+#372	止める	やめる	stop (a car…). 止める (yameru) give up	0	0
+#373	四日	よっか	four days, fourth of the month	0	0
+#374	夜	よる	night (from sunset to sunrise)	0	0
+#375	来年	らいねん	next year	0	0
+#376	六	ろく	six	0	0
+#377	悪い	わるい	bad	0	0
+#378	お手洗い	おてあらい	toilet, bathroom	0	0
+#379	ご主人	ごしゅじん	(someone else’s) husband	0	0
+#380	本当に	ほんとうに	really, truly	0	0
+#381	自分	じぶん	self, oneself	0	0
+#382	ため	ため	sake, purpose	0	0
+#383	見つかる	みつかる	be found, be caught	0	0
+#384	休む	やすむ	take a rest, take a break	0	0
+#385	ゆっくり	ゆっくり	slowly	0	0
+#386	六つ	むつ	six (things)	0	0
+#387	花	はな	flower	0	0
+#388	動く	うごく	move	0	0
+#389	線	せん	line	0	0
+#390	七日	なのか	seven days, seventh of the month	0	0
+#391	以外	いがい	except for	0	0
+#392	男	おとこ	man, male	0	0
+#393	彼	かれ	he, one’s boyfriend	0	0
+#394	女	おんな	woman	0	0
+#395	妻	つま	woman	0	0
+#396	百	ひゃく	hundred	0	0
+#397	辺	へん	vicinity	0	0
+#398	店	みせ	shop, store	0	0
+#399	閉まる	しまる	be shut, be closed	0	0
+#400	問題	もんだい	problem, question	0	0
+#401	必要	ひつよう	need, necessary	0	0
+#402	もつ	もつ	last long, be durable	0	0
+#403	開く	ひらく	open	0	0
+#404	昨年	さくねん	last year (formal, often used in writing)	0	0
+#405	治る	なおる	be cured, get well	0	0
+#406	ドル	どる	dollar	0	0
+#407	システム	しすてむ	system (loan word)	0	0
+#408	以上	いじょう	more than, not less than	0	0
+#409	最近	さいきん	recent, latest	0	0
+#410	世界	せかい	world	0	0
+#411	コンピューター	こんぴゅーたー	computer	0	0
+#412	やる	やる	give (to an inferior)	0	0
+#413	意味	いみ	meaning, sense	0	0
+#414	増える	ふえる	increase, accrue	0	0
+#415	選ぶ	えらぶ	choose, elect	0	0
+#416	生活	せいかつ	life, living	0	0
+#417	進める	すすめる	go ahead, proceed	0	0
+#418	続ける	つづける	continue, keep up	0	0
+#419	ほとんど	ほとんど	almost, hardly	0	0
+#420	会社	かいしゃ	company, corporation	0	0
+#421	家	いえ	house, dwelling	0	0
+#422	多く	おおく	much, largely	0	0
+#423	話	はなし	talk, story	0	0
+#424	上がる	あがる	go up, rise (physical movement)	0	0
+#425	もう	もう	another, again	0	0
+#426	集める	あつめる	collect, gather	0	0
+#427	声	こえ	voice, sound	0	0
+#428	初めて	はじめて	for the first time	0	0
+#429	変わる	かわる	change, turn into	0	0
+#430	まず	まず	first of all, to begin with	0	0
+#431	社会	しゃかい	society	0	0
+#432	プログラム	ぷろぐらむ	program booklet	0	0
+#433	力	ちから	strength, power	0	0
+#434	今回	こんかい	this time	0	0
+#435	予定	よてい	schedule, plan	0	0
+#436	まま	まま	as is, still (in the current state)	0	0
+#437	テレビ	てれび	television	0	0
+#438	減る	へる	decrease, diminish	0	0
+#439	消える	きえる	be extinguished, disappear	0	0
+#440	家族	かぞく	family, household	0	0
+#441	比べる	くらべる	compare, contrast	0	0
+#442	生まれる	うまれる	be born, come into existence	0	0
+#443	ただ	ただ	free	0	0
+#444	これら	これら	these	0	0
+#445	調べる	しらべる	investigate, check	0	0
+#446	事故	じこ	accident, trouble	0	0
+#447	電話	でんわ	telephone, phone call	0	0
+#448	外国	がいこく	foreign country	0	0
+#449	銀行	ぎんこう	bank	0	0
+#450	十分	じゅうぶん	enough, plentiful	0	0
+#451	あまり	あまり	(not) much	0	0
+#452	写真	しゃしん	photograph	0	0
+#453	繰り返す	くりかえす	repeat	0	0
+#454	種類	しゅるい	kind, type	0	0
+#455	意見	いけん	opinion	0	0
+#456	新聞	しんぶん	newspaper	0	0
+#457	文章	ぶんしょう	sentence, writing	0	0
+#458	目立つ	めだつ	stand out, be conspicuous	0	0
+#459	相手	あいて	opponent, the other party	0	0
+#460	病院	びょういん	hospital	0	0
+#461	厚い	あつい	thick, bulky	0	0
+#462	忙しい	いそがしい	busy, occupied	0	0
+#463	薄い	うすい	thin, weak	0	0
+#464	川	かわ	river, stream	0	0
+#465	暗い	くらい	dark, gloomy	0	0
+#466	クラス	くらす	class (in school)	0	0
+#467	黒い	くろい	black, dark	0	0
+#468	バス	ばす	bus	0	0
+#469	青い	あおい	blue	0	0
+#470	買い物	かいもの	shopping, purchase	0	0
+#471	薬	くすり	drug, medicine	0	0
+#472	砂糖	さとう	sugar	0	0
+#473	休み	やすみ	holiday, break	0	0
+#474	郵便局	ゆうびんきょく	post office	0	0
+#475	住所	じゅうしょ	address	0	0
+#476	こちら	こちら	here, this way (polite)	0	0
+#477	財布	さいふ	purse, wallet	0	0
+#478	パスポート	ぱすぽーと	passport	0	0
+#479	椅子	いす	chair	0	0
+#480	可愛い	かわい	cute, sweet	0	0
+#481	お祖父さん	おそふさん	grandfather (colloquial)	0	0
+#482	切手	きって	postage stamp	0	0
+#483	涼しい	すずしい	cool (of temperature)	0	0
+#484	いくつ	いくつ	how many, how old	0	0
+#485	メニュー	めにゅー	menu	0	0
+#486	電気	でんき	electricity, electric light	0	0
+#487	勝つ	かつ	win	0	0
+#488	負ける	まける	lose	0	0
+#489	建てる	たてる	build, erect	0	0
+#490	日記	にっき	diary	0	0
+#491	売り切れ	うりきれ	sell out	0	0
+#492	お巡りさん	おめぐりさん	police officer (colloquial)	0	0
+#493	目覚まし時計	めざましとけい	alarm clock	0	0
+#494	レシート	れしーと	receipt (loan word)	0	0
+#495	ティッシュ	てぃっしゅ	tissue	0	0
+#496	歯ブラシ	はぶらし	toothbrush	0	0
+#497	下りる	おりる	go down, come down	0	0
+#498	洗う	あらう	wash	0	0
+#499	パート	ぱーと	part-time	0	0
+#500	氏名	しめい	full name	0	0
+#501	今夜	こんや	tonight, this evening	0	0
+#502	夜中	よなか	midnight	0	0
+#503	来週	らいしゅう	next week	0	0
+#504	誰か	だれか	someone	0	0
+#505	何	なに	what. それはなんですか. What is that?	0	0
+#506	今朝	けさ	this morning	0	0
+#507	寿司	すし	sushi	0	0
+#508	履く	はく	put on (shoes), wear (pants, skirt)	0	0
+#509	おじさん	おじさん	uncle	0	0
+#510	おばさん	おばさん	aunt	0	0
+#511	お祖母さん	おそぼさん	grandmother (colloquial)	0	0
+#512	いとこ	いとこ	cousin	0	0
+#513	辞書	じしょ	dictionary (category)	0	0
+#514	朝ご飯	あさごめし	breakfast	0	0
+#515	白	しろ	white	0	0
+#516	どっち	どっち	which (casual)	0	0
+#517	そっち	そっち	there (casual)	0	0
+#518	明日	あした	tomorrow (colloquial)	0	0
+#519	明後日	みょうごにち	day after tomorrow (colloquial)	0	0
+#520	一昨日	いっさくじつ	the day before yesterday (colloquial)	0	0
+#521	庭	にわ	garden, yard	0	0
+#522	左側	ひだりがわ	left side	0	0
+#523	右側	みぎがわ	right side	0	0
+#524	指	ゆび	finger, toe	0	0
+#525	眼鏡	めがね	glasses	0	0
+#526	鞄	かばん	bag, handbag	0	0
+#527	あっち	あっち	other side, over there (casual)	0	0
+#528	大人しい	おとなしい	gentle, quiet	0	0
+#529	下手	へた	not good at	0	0
+#530	厳しい	いかめしい	strict, severe	0	0
+#531	一人で	ひとりで	by oneself, alone	0	0
+#532	答え	こたえ	answer, solution	0	0
+#533	この頃	このごろ	these days, recently	0	0
+#534	残念	ざんねん	regretful, disappointing	0	0
+#535	仕舞う	しまう	put away, put in	0	0
+#536	心配	しんぱい	anxiety, worry	0	0
+#537	外	そと	outside, open air	0	0
+#538	大切	たいせつ	important, valuable	0	0
+#539	ちょうど	ちょうど	just, exactly	0	0
+#540	助ける	たすける	help, save	0	0
+#541	勤める	つとめる	serve, hold a job	0	0
+#542	連れていく	つれていく	take along, bring along (a person)	0	0
+#543	丈夫	じょうぶ	healthy, sturdy	0	0
+#544	賑やか	にぎやか	lively, exciting	0	0
+#545	眠い	ねむい	sleepy	0	0
+#546	山	やま	mountain	0	0
+#547	橋	はし	bridge	0	0
+#548	止まる	とまる	come to a stop, cease	0	0
+#549	降る	ふる	fall, come down (rain, snow, etc.)	0	0
+#550	本当	ほんとう	reality, genuine	0	0
+#551	町	まち	town, city	0	0
+#552	お菓子	おかし	sweets, snacks	0	0
+#553	緩い	ゆるい	slack, loose	0	0
+#554	良い	よい	good (formal/written form)	0	0
+#555	ようこそ	ようこそ	welcome (greeting)	0	0
+#556	お土産	おみやげ	souvenir (polite)	0	0
+#557	両親	りょうしん	parents	0	0
+#558	ウェーター	うぇーたー	waiter	0	0
+#559	ウェートレス	うぇーとれす	waitress	0	0
+#560	絶対に	ぜったいに	absolutely, definitely	0	0
+#561	ごちそう	ごちそう	feast, treat	0	0
+#562	フォーク	ふぉーく	fork	0	0
+#563	スプーン	すぷーん	spoon	0	0
+#564	瓶	かめ	bottle	0	0
+#565	つく	つく	be on, be switched on	0	0
+#566	醤油	しょうゆ	soy sauce	0	0
+#567	茶碗	ちゃわん	rice bowl	0	0
+#568	決める	きめる	decide, agree upon	0	0
+#569	感じる	かんじる	feel, sense	0	0
+#570	生きる	いきる	live (one’s life)	0	0
+#571	動かす	うごかす	move (something)	0	0
+#572	壊れる	こわれる	break, break down	0	0
+#573	復習	ふくしゅう	review	0	0
+#574	眉	まゆ	eyebrow	0	0
+#575	客	きゃく	visitor, customer	0	0
+#576	机	つくえ	desk	0	0
+#577	風呂	ふろ	bath	0	0
+#578	湯	ゆ	hot water	0	0
+#579	ぬるい	ぬるい	tepid, lukewarm	0	0
+#580	風邪薬	かぜぐすり	cold medicine	0	0
+#581	靴下	くつした	socks	0	0
+#582	タバコ	たばこ	tobacco, cigarette	0	0
+#583	アイスコーヒー	あいすこーひー	iced coffee	0	0
+#584	天ぷら	てんぷら	Japanese deep-fried food	0	0
+#585	肉	にく	flesh, meat	0	0
+#586	昨夜	さくや	last night, last evening (colloquial)	0	0
+#587	流行る	はやる	be in fashion, be popular	0	0
+#588	連れて来る	つれてくる	bring (a person)	0	0
+#589	方	ほう	person (polite form)	0	0
+#590	零	れい	zero	0	0
+#591	雲	くも	cloud	0	0
+#592	空	そら	sky	0	0
+#593	人気	にんき	popularity	0	0
+#594	兄さん	にいさん	(one’s own) older brother (polite)	0	0
+#595	姉さん	ねえさん	(one’s own) older sister (polite)	0	0
+#596	平成	へいせい	Heisei era	0	0
+#597	毎月	まいつき	every month	0	0
+#598	半日	はんにち	half a day	0	0
+#599	半月	はんつき	half a month	0	0
+#600	なるほど	なるほど	I see, really	0	0
+#601	つまり	つまり	in short, that is to say	0	0
+#602	そのまま	そのまま	as it is, just like that	0	0
+#603	はっきり	はっきり	clearly	0	0
+#604	大変	たいへん	awful, hard	0	0
+#605	簡単	かんたん	simple, easy	0	0
+#606	似ている	にている	look like, resemble	0	0
+#607	驚く	おどろく	be surprised, be startled	0	0
+#608	嫌	いや	dislike (situational)	0	0
+#609	喧嘩	けんか	fight, argument	0	0
+#610	遅れる	おくれる	be late	0	0
+#611	にんじん	にんじん	carrot	0	0
+#612	ジャガイモ	じゃがいも	potato	0	0
+#613	ナス	なす	eggplant	0	0
+#614	やかん	やかん	kettle	0	0
+#615	話し合う	はなしあう	discuss, talk over	0	0
+#616	残す	のこす	leave, leave undone	0	0
+#617	ごちそうする	ごちそうする	treat, host (a meal)	0	0
+#618	合う	あう	fit, match	0	0
+#619	当たる	あたる	(go straight and) hit, strike	0	0
+#620	集まる	あつまる	gather, be collected	0	0
+#621	場所	ばしょ	place, space	0	0
+#622	海	うみ	sea, ocean	0	0
+#623	少年	しょうねん	boy (between 7 and 18 years old)	0	0
+#624	孫	まご	grandchild	0	0
+#625	生徒	せいと	pupil, student	0	0
+#626	高校	こうこう	high school (for short)	0	0
+#627	年上	としうえ	older, senior	0	0
+#628	卒業	そつぎょう	graduation	0	0
+#629	運動	うんどう	movement, exercise	0	0
+#630	選手	せんしゅ	athlete, (sports) player	0	0
+#631	映画	えいが	movie	0	0
+#632	英語	えいご	English	0	0
+#633	手紙	てがみ	letter	0	0
+#634	動物	どうぶつ	animal	0	0
+#635	音	おと	sound, noise	0	0
+#636	海外	かいがい	overseas, abroad	0	0
+#637	外国人	がいこくじん	foreigner	0	0
+#638	帰国	きこく	return to one’s country	0	0
+#639	彼ら	かれら	they	0	0
+#640	機械	きかい	machine	0	0
+#641	基本	きほん	basics	0	0
+#642	今度	こんど	this time, next time	0	0
+#643	最後	さいご	last	0	0
+#644	最初	さいしょ	first, outset	0	0
+#645	準備	じゅんび	preparation, arrangement	0	0
+#646	進む	すすむ	advance, move forward	0	0
+#647	直接	ちょくせつ	directly	0	0
+#648	特に	とくに	specially, particularly	0	0
+#649	届く	とどく	reach, be received	0	0
+#650	なぜ	なぜ	why	0	0
+#651	並ぶ	ならぶ	line up, be parallel	0	0
+#652	運ぶ	はこぶ	carry, transport	0	0
+#653	直す	なおす	repair, fix	0	0
+#654	反対	はんたい	oppose, object	0	0
+#655	場合	ばあい	situation, case	0	0
+#656	詳しい	くわしい	detailed	0	0
+#657	いたずら	いたずら	mischief, prank	0	0
+#658	お祝い	おいわい	celebrate	0	0
+#659	くし	くし	comb	0	0
+#660	こぼれる	こぼれる	spill, overflow	0	0
+#661	伝える	つたえる	convey, transmit	0	0
+#662	膝	ひざ	knee	0	0
+#663	肘	ひじ	elbow	0	0
+#664	枕	まくら	pillow	0	0
+#665	建物	たてもの	building, structure	0	0
+#666	道路	どうろ	road	0	0
+#667	四つ角	よつかど	intersection	0	0
+#668	曲がり角	まがりかく	corner (to turn)	0	0
+#669	警察	けいさつ	police	0	0
+#670	空気	くうき	air, atmosphere	0	0
+#671	スポーツ	すぽーつ	sport	0	0
+#672	チャンス	ちゃんす	chance	0	0
+#673	クリーニング	くりーにんぐ	dry cleaning	0	0
+#674	サービス	さーびす	service, on the house	0	0
+#675	グループ	ぐるーぷ	group	0	0
+#676	自宅	じたく	one’s house, one’s home	0	0
+#677	家庭	かてい	home, family	0	0
+#678	期間	きかん	term, period	0	0
+#679	年度	ねんど	year, school year	0	0
+#680	経験	けいけん	experience, knowledge	0	0
+#681	安全	あんぜん	safety, security	0	0
+#682	危険	きけん	danger, dangerous	0	0
+#683	注意	ちゅうい	attention, care	0	0
+#684	成功	せいこう	success	0	0
+#685	努力	どりょく	endeavor, effort	0	0
+#686	説明	せつめい	explanation, description	0	0
+#687	地震	じしん	earthquake	0	0
+#688	手術	しゅじゅつ	surgical operation	0	0
+#689	火傷	やけど	burn	0	0
+#690	課題	かだい	task, assignment	0	0
+#691	子	こ	young child, kid	0	0
+#692	確認	かくにん	confirmation	0	0
+#693	実際	じっさい	reality, actual state	0	0
+#694	国際	こくさい	international (used in compound nouns)	0	0
+#695	会議	かいぎ	conference, meeting	0	0
+#696	提案	ていあん	proposition, proposal	0	0
+#697	事務所	じむしょ	office, one’s place of business	0	0
+#698	教授	きょうじゅ	professor	0	0
+#699	世紀	せいき	century	0	0
+#700	あちこち	あちこち	all over, here and there	0	0
+#701	そちら	そちら	there, that way (polite)	0	0
+#702	あちら	あちら	over there, that way (polite)	0	0
+#703	もし	もし	if, in case of	0	0
+#704	うるさい	うるさい	noisy, annoying	0	0
+#705	固い	かたい	stiff, tight	0	0
+#706	深い	ふかい	deep, profound	0	0
+#707	面白い	おもしろい	interesting, amusing	0	0
+#708	全く	まったく	entirely, truly	0	0
+#709	半分	はんぶん	half	0	0
+#710	普通	ふつう	normal, regular	0	0
+#711	分	ふん	amount, share	0	0
+#712	文化	ぶんか	culture	0	0
+#713	毎日	まいにち	every day	0	0
+#714	気を付ける	きをつける	be careful about, pay attention to	0	0
+#715	守る	まもる	protect, observe	0	0
+#716	もちろん	もちろん	of course	0	0
+#717	やはり	やはり	as expected	0	0
+#718	いくら	いくら	how much (money)	0	0
+#719	よろしく	よろしく	one’s regards	0	0
+#720	どなた	どなた	who (polite)	0	0
+#721	許す	ゆるす	permit, forgive	0	0
+#722	分ける	わける	divide, share	0	0
+#723	自然	しぜん	nature	0	0
+#724	アパート	あぱーと	apartment, flat	0	0
+#725	ホテル	ほてる	hotel	0	0
+#726	パソコン	ぱそこん	personal computer	0	0
+#727	うまい	うまい	good at	0	0
+#728	明るい	あかるい	bright, cheerful	0	0
+#729	急ぐ	いそぐ	hurry, do quickly	0	0
+#730	歌	うた	song	0	0
+#731	中学校	ちゅうがっこう	junior high school	0	0
+#732	テスト	てすと	test	0	0
+#733	ポスト	ぽすと	postbox, mailbox	0	0
+#734	ハンカチ	はんかち	handkerchief	0	0
+#735	髪	かみ	hair, hairstyle	0	0
+#736	帽子	ぼうし	hat, cap	0	0
+#737	被る	こうむる	wear, put on (on one’s head)	0	0
+#738	ブラウス	ぶらうす	blouse	0	0
+#739	週末	しゅうまつ	weekend	0	0
+#740	先週	せんしゅう	last week	0	0
+#741	再来週	さらいしゅう	the week after next	0	0
+#742	いつか	いつか	some time, some day	0	0
+#743	宿題	しゅくだい	homework	0	0
+#744	鍵	かぎ	key, lock	0	0
+#745	傘	かさ	umbrella, parasol	0	0
+#746	乗り換える	のりかえる	change, transfer	0	0
+#747	向かう	むかう	face, head toward	0	0
+#748	本屋	ほんや	bookstore (colloquial)	0	0
+#749	お茶	おちゃ	tea (polite)	0	0
+#750	改札口	かいさつぐち	ticket gate	0	0
+#751	晴れ	はれ	fine weather, clear sky	0	0
+#752	バス停	ばすてい	bus stop	0	0
+#753	曇り	くもり	cloudy weather	0	0
+#754	塩	しお	salt	0	0
+#755	たくさん	たくさん	a lot, in large quantity	0	0
+#756	大嫌い	だいきらい	hate	0	0
+#757	中	なか	inside, middle	0	0
+#758	二階	にかい	second floor, upstairs	0	0
+#759	無くす	なくす	lose, get rid of	0	0
+#760	まあまあ	まあまあ	OK, not bad	0	0
+#761	黄色	きいろ	yellow color	0	0
+#762	ランチ	らんち	lunch (loan word)	0	0
+#763	魚	さかな	fish	0	0
+#764	味	あじ	taste, flavor	0	0
+#765	りんご	りんご	apple	0	0
+#766	みかん	みかん	tangerine	0	0
+#767	皿	さら	plate, counter (for plates or helpings)	0	0
+#768	コーヒー	こーひー	coffee	0	0
+#769	コップ	こっぷ	cup, glass	0	0
+#770	二人	ふたり	two persons	0	0
+#771	止む	とむ	stop, cease	0	0
+#772	九	きゅう	nine	0	0
+#773	昼間	ひるま	daytime, during the day	0	0
+#774	いつ頃	いつごろ	about when, about what time	0	0
+#775	字	じ	(individual) character, letter	0	0
+#776	七	しち	seven (Chinese origin)	0	0
+#777	お釣り	おつり	change (of money)	0	0
+#778	名字	みょうじ	surname, family name	0	0
+#779	おじ	おじ	(one’s own) uncle	0	0
+#780	おば	おば	(one’s own) aunt	0	0
+#781	祖父	そふ	grandfather (formal)	0	0
+#782	祖母	そぼ	grandmother (formal)	0	0
+#783	大事	だいじ	importance	0	0
+#784	見方	みかた	view, perspective	0	0
+#785	鳥	とり	bird, poultry	0	0
+#786	犬	いぬ	dog	0	0
+#787	返事	へんじ	reply, answer, response	0	0
+#788	また	また	again, also, or	0	0
+#789	年間	ねんかん	period of one year	0	0
+#790	青	あお	blue, green	0	0
+#791	赤	あか	red color	0	0
+#792	信号	しんごう	signal, traffic light	0	0
+#793	円	えん	circle	0	0
+#794	非常に	ひじょうに	very, extremely	0	0
+#795	複雑	ふくざつ	complicated, intricate	0	0
+#796	平和	へいわ	peace, harmony	0	0
+#797	回る	まわる	turn round, go around	0	0
+#798	若者	わかもの	young person, youth	0	0
+#799	雪	ゆき	snow, snowfall	0	0
+#800	うまい	うまい	sweet, delicious	0	0
+#801	思い出す	おもいだす	recollect, recall	0	0
+#802	聞こえる	きこえる	hear, be heard	0	0
+#803	借りる	かりる	borrow	0	0
+#804	返す	かえす	return, repay	0	0
+#805	受け取る	うけとる	receive, get	0	0
+#806	捨てる	すてる	discard, abandon	0	0
+#807	一緒	いっしょ	together, same (colloquial)	0	0
+#808	遊び	あそび	play, amusement	0	0
+#809	移す	うつす	move, transfer	0	0
+#810	大きさ	おおきさ	size, dimension	0	0
+#811	考え	かんがえ	thought, idea	0	0
+#812	空港	くうこう	airport (for public transportation)	0	0
+#813	出発	しゅっぱつ	departure, starting	0	0
+#814	地図	ちず	map, atlas	0	0
+#815	運転	うんてん	drive	0	0
+#816	降りる	おりる	get off, land	0	0
+#817	ガス	がす	gas (loan word)	0	0
+#818	必ず	かならず	without exception, always	0	0
+#819	カメラ	かめら	camera	0	0
+#820	通う	かよう	go to and from, frequent a place	0	0
+#821	急に	きゅうに	suddenly, unexpectedly	0	0
+#822	サラリーマン	さらりーまん	office worker, company employee	0	0
+#823	給料	きゅうりょう	salary, pay	0	0
+#824	曲	きょく	piece of music	0	0
+#825	切れる	きれる	cut well, be sharp	0	0
+#826	正しい	ただしい	correct, righteous	0	0
+#827	苦しい	くるしい	painful, agonizing	0	0
+#828	細かい	こまかい	minute, fine	0	0
+#829	静か	しずか	quiet, tranquil	0	0
+#830	健康	けんこう	health	0	0
+#831	ゴルフ	ごるふ	golf	0	0
+#832	コース	こーす	course, route	0	0
+#833	頼む	たのむ	order, ask for	0	0
+#834	困る	こまる	be in trouble, not know what to do	0	0
+#835	ずっと	ずっと	all the time, all through	0	0
+#836	例えば	たとえば	for example	0	0
+#837	つもり	つもり	intention, purpose	0	0
+#838	しばらく	しばらく	a little while, a while	0	0
+#839	紹介	しょうかい	introduction	0	0
+#840	小学校	しょうがっこう	elementary school	0	0
+#841	公園	こうえん	park, public garden	0	0
+#842	中学	ちゅうがく	junior high	0	0
+#843	成績	せいせき	results, grade	0	0
+#844	教科書	きょうかしょ	textbook, schoolbook	0	0
+#845	席	せき	seat, one’s place	0	0
+#846	教室	きょうしつ	classroom, class	0	0
+#847	教師	きょうし	teacher, instructor	0	0
+#848	試験	しけん	exam	0	0
+#849	合格	ごうかく	pass an examination	0	0
+#850	数学	すうがく	mathematics	0	0
+#851	数字	すうじ	numeric characters	0	0
+#852	音楽	おんがく	music	0	0
+#853	食事	しょくじ	meal	0	0
+#854	壁	かべ	wall, partition	0	0
+#855	信じる	しんじる	believe, trust	0	0
+#856	育てる	そだてる	bring up, raise	0	0
+#857	倒れる	たおれる	fall over	0	0
+#858	落とす	おとす	drop	0	0
+#859	代わる	かわる	substitute, be substituted for	0	0
+#860	タクシー	たくしー	taxi	0	0
+#861	確か	たしか	for sure, for certain	0	0
+#862	立てる	たてる	stand, set up	0	0
+#863	中学生	ちゅうがくせい	junior high school student	0	0
+#864	売れる	うれる	sell, be in demand	0	0
+#865	着く	つく	arrive at, reach	0	0
+#866	決まる	きまる	be decided	0	0
+#867	飾る	かざる	decorate	0	0
+#868	殺す	ころす	kill	0	0
+#869	下げる	さげる	lower, turn down	0	0
+#870	贈る	おくる	offer, give	0	0
+#871	訪ねる	たずねる	visit, go to see	0	0
+#872	打つ	うつ	hit, strike	0	0
+#873	相談	そうだん	consultation, advice	0	0
+#874	玄関	げんかん	entrance, door	0	0
+#875	兄弟	きょうだい	sibling	0	0
+#876	長男	ちょうなん	eldest son	0	0
+#877	高さ	たかさ	height	0	0
+#878	用	よう	things to do	0	0
+#879	時代	じだい	age, era	0	0
+#880	位置	いち	position, location	0	0
+#881	季節	きせつ	season	0	0
+#882	穴	あな	hole	0	0
+#883	裏	うら	the back, the reverse side	0	0
+#884	島	しま	island (Japanese origin)	0	0
+#885	海岸	かいがん	seashore, coast	0	0
+#886	ガラス	がらす	glass (material)	0	0
+#887	自然	しぜん	natural	0	0
+#888	風	かぜ	wind	0	0
+#889	科学	かがく	science	0	0
+#890	太陽	たいよう	sun	0	0
+#891	台風	たいふう	typhoon	0	0
+#892	北	きた	north	0	0
+#893	馬	うま	horse	0	0
+#894	牛肉	ぎゅうにく	beef	0	0
+#895	雑誌	ざっし	magazine, journal	0	0
+#896	小説	しょうせつ	novel	0	0
+#897	大使館	たいしかん	embassy	0	0
+#898	故障	こしょう	malfunction, breakdown	0	0
+#899	温度	おんど	temperature	0	0
+#900	何か	なにか	something, some	0	0
+#901	向こう	むこう	over there, on the other side	0	0
+#902	真ん中	まんなか	center, middle (casual)	0	0
+#903	遠く	とおく	far away, at a distance	0	0
+#904	横	よこ	side, width across	0	0
+#905	つまらない	つまらない	boring, dull	0	0
+#906	素晴らしい	すばらしい	excellent, wonderful	0	0
+#907	毎年	まいとし	every year (colloquial)	0	0
+#908	来月	らいげつ	next month	0	0
+#909	日時	にちじ	date and time	0	0
+#910	夕方	ゆうがた	early evening, at dusk	0	0
+#911	通る	とうる	pass, go through	0	0
+#912	自動車	じどうしゃ	automobile	0	0
+#913	慣れる	なれる	grow accustomed to, get used to	0	0
+#914	撮る	とる	take (a photograph), film	0	0
+#915	やっと	やっと	at last, finally	0	0
+#916	どんどん	どんどん	knock, bang	0	0
+#917	並べる	ならべる	line up, arrange	0	0
+#918	逃げる	にげる	escape, run away	0	0
+#919	渡す	わたす	hand over, give	0	0
+#920	値段	ねだん	price	0	0
+#921	両方	りょうほう	both	0	0
+#922	約束	やくそく	promise, vow	0	0
+#923	一部	いちぶ	part	0	0
+#924	ラジオ	らじお	radio	0	0
+#925	入院	にゅういん	be hospitalized	0	0
+#926	ニュース	にゅーす	news	0	0
+#927	旅行	りょこう	travel, trip	0	0
+#928	用意	ようい	preparation	0	0
+#929	伸びる	のびる	stretch, grow	0	0
+#930	パーティー	ぱーてぃー	party	0	0
+#931	ビール	びーる	beer	0	0
+#932	早く	はやく	early, soon	0	0
+#933	番組	ばんぐみ	program	0	0
+#934	ビデオ	びでお	video	0	0
+#935	増やす	ふやす	increase	0	0
+#936	振る	ふる	wave, shake	0	0
+#937	迎える	むかえる	welcome, receive (a visitor)	0	0
+#938	無理	むり	unreasonable, impossible	0	0
+#939	珍しい	めずらしい	rare, scarce	0	0
+#940	有名	ゆうめい	famous	0	0
+#941	喜ぶ	よろこぶ	be happy, be delighted	0	0
+#942	留学	りゅうがく	study abroad	0	0
+#943	料理	りょうり	cooking	0	0
+#944	野菜	やさい	vegetable	0	0
+#945	分かれる	わかれる	be divided, split off	0	0
+#946	特別	とくべつ	special	0	0
+#947	理由	りゆう	reason, excuse	0	0
+#948	自由	じゆう	freedom	0	0
+#949	方向	ほうこう	direction, course	0	0
+#950	残る	のこる	remain, be left over	0	0
+#951	ビル	びる	building	0	0
+#952	まとめる	まとめる	gather together, put in order	0	0
+#953	流れる	ながれる	flow, run	0	0
+#954	セーター	せーたー	sweater	0	0
+#955	シャツ	しゃつ	shirt	0	0
+#956	洗濯	せんたく	laundry, washing	0	0
+#957	間違える	まちがえる	make a mistake, fail at	0	0
+#958	アイスクリーム	あいすくりーむ	ice cream	0	0
+#959	乾く	かわく	become dry	0	0
+#960	冷める	さめる	cool off	0	0
+#961	色々	いろいろ	a variety of	0	0
+#962	持って行く	もっていく	take, bring	0	0
+#963	着替える	きがえる	change clothes	0	0
+#964	石鹸	せっけん	soap	0	0
+#965	野球	やきゅう	baseball	0	0
+#966	昼食	ちゅうしょく	lunch	0	0
+#967	朝食	ちょうしょく	breakfast	0	0
+#968	眠る	ねむる	sleep, lie idle	0	0
+#969	初め	はじめ	beginning	0	0
+#970	火	ひ	fire, flame	0	0
+#971	西	にし	west, western	0	0
+#972	東	ひがし	east, eastern	0	0
+#973	南	みなみ	south	0	0
+#974	夕食	ゆうしょく	supper, dinner	0	0
+#975	なかなか	なかなか	rather, pretty	0	0
+#976	励ます	はげます	encourage, cheer up	0	0
+#977	涙	なみだ	tear	0	0
+#978	夢	ゆめ	dream	0	0
+#979	職場	しょくば	place of work, office	0	0
+#980	隣	となり	next to, next door	0	0
+#981	マンション	まんしょん	apartment, residential building	0	0
+#982	エレベーター	えれべーたー	elevator	0	0
+#983	窓	まど	window	0	0
+#984	押す	おす	push, press down	0	0
+#985	入学	にゅうがく	enter a school, matriculate	0	0
+#986	戸	こ	door, sliding door	0	0
+#987	通り	とうり	street, road	0	0
+#988	亡くなる	なくなる	die, pass away	0	0
+#989	夫婦	ふうふ	husband and wife, married couple	0	0
+#990	女性	じょせい	woman, female (formal)	0	0
+#991	森	もり	forest	0	0
+#992	トラック	とらっく	truck	0	0
+#993	レコード	れこーど	record	0	0
+#994	熱	ねつ	heat, fever	0	0
+#995	ページ	ぺーじ	page	0	0
+#996	踊る	おどる	dance	0	0
+#997	長さ	ながさ	length	0	0
+#998	厚さ	あつさ	thickness	0	0
+#999	秘密	ひみつ	secret, privacy	0	0
+#1000	凄い	すごい	great, incredible	0	0
+#1001	親切	しんせつ	kind, kindhearted	0	0
+#1002	絶対	ぜったい	absolutely, never	0	0
+#1003	先月	せんげつ	last month	0	0
+#1004	一昨年	いっさくねん	the year before last (colloquial)	0	0
+#1005	冬休み	ふゆやすみ	winter vacation	0	0
+#1006	夏休み	なつやすみ	summer vacation	0	0
+#1007	休日	きゅうじつ	day off, holiday	0	0
+#1008	正月	しょうがつ	New Year, January	0	0
+#1009	思い出	おもいで	memory	0	0
+#1010	たまに	たまに	occasionally, by chance	0	0
+#1011	おかしい	おかしい	strange, peculiar	0	0
+#1012	浅い	あさい	shallow, superficial	0	0
+#1013	君	くん	you (referring to fellows or subordinates)	0	0
+#1014	奥さん	おくさん	(somone else’s) wife, married woman	0	0
+#1015	赤ちゃん	あかちゃん	baby (colloquial)	0	0
+#1016	小学生	しょうがくせい	elementary school student	0	0
+#1017	貸す	かす	lend, lease	0	0
+#1018	数える	かぞえる	count	0	0
+#1019	生む	うむ	give birth, produce	0	0
+#1020	育つ	そだつ	be brought up, grow	0	0
+#1021	是非	ぜひ	by all means, please	0	0
+#1022	黒	くろ	black	0	0
+#1023	おもちゃ	おもちゃ	toy, plaything	0	0
+#1024	靴	くつ	shoes	0	0
+#1025	連絡	れんらく	contact, communication	0	0
+#1026	伝言	でんごん	message	0	0
+#1027	預ける	あずける	deposit, leave (something) with (someone)	0	0
+#1028	下がる	さがる	go down, drop	0	0
+#1029	泳ぐ	およぐ	swim	0	0
+#1030	アルバイト	あるばいと	part-time job	0	0
+#1031	コート	こーと	coat, jacket (loan word)	0	0
+#1032	趣味	しゅみ	hobby, interest	0	0
+#1033	散歩	さんぽ	walk, stroll	0	0
+#1034	幸せ	しあわせ	happiness, satisfied (colloquial)	0	0
+#1035	安心	あんしん	peace of mind, relief	0	0
+#1036	大勢	おおぜい	large numbers, a lot of (people)	0	0
+#1037	医者	いしゃ	doctor (colloquial, plain)	0	0
+#1038	運転手	うんてんしゅ	driver	0	0
+#1039	新幹線	しんかんせん	bullet train	0	0
+#1040	往復	おうふく	round trip	0	0
+#1041	コピー	こぴー	copy, photocopy	0	0
+#1042	奥	おく	inner part, the back	0	0
+#1043	重さ	おもさ	weight	0	0
+#1044	親しい	したしい	intimate, familiar	0	0
+#1045	修理	しゅうり	repair, mending	0	0
+#1046	カード	かーど	card	0	0
+#1047	挨拶	あいさつ	greet, greeting	0	0
+#1048	階段	かいだん	steps, flight of stairs	0	0
+#1049	配る	くばる	hand out, distribute	0	0
+#1050	断る	ことわる	refuse, turn down	0	0
+#1051	グラム	ぐらむ	gram	0	0
+#1052	濃い	こい	strong, concentrated	0	0
+#1053	壊す	こわす	break (something), destroy	0	0
+#1054	桜	さくら	cherry tree, cherry blossom	0	0
+#1055	仕方	しかた	way, method	0	0
+#1056	絵	え	picture, painting	0	0
+#1057	気温	きおん	air temperature	0	0
+#1058	品物	しなもの	article, goods	0	0
+#1059	吸う	すう	inhale, suck	0	0
+#1060	案内	あんない	guide, guidance	0	0
+#1061	スキー	すきー	ski, skiing	0	0
+#1062	金持ち	かねもち	wealthy person	0	0
+#1063	尋ねる	たずねる	inquire, ask	0	0
+#1064	叩く	たたく	tap, hit	0	0
+#1065	帰り	かえり	return, going home	0	0
+#1066	卵	たまご	egg	0	0
+#1067	氷	こおり	ice	0	0
+#1068	留学生	りゅうがくせい	student studying abroad	0	0
+#1069	ソフト	そふと	software, program	0	0
+#1070	歯医者	はいしゃ	dentist	0	0
+#1071	蹴る	ける	kick	0	0
+#1072	敷く	しく	lay, spread	0	0
+#1073	ひととき	ひととき	some moments, a while	0	0
+#1074	交通事故	こうつうじこ	traffic accident	0	0
+#1075	遭う	あう	meet, encounter, get caught in	0	0
+#1076	招待	しょうたい	invitation	0	0
+#1077	咲く	さく	bloom, blossom	0	0
+#1078	二十歳	はたち	20 years old	0	0
+#1079	銀	ぎん	silver	0	0
+#1080	内側	うちがわ	inside, interior	0	0
+#1081	池	いけ	pond	0	0
+#1082	石	いし	stone, small rock	0	0
+#1083	愛	あい	love	0	0
+#1084	課	か	section, division	0	0
+#1085	大学院	だいがくいん	graduate school	0	0
+#1086	台所	だいどころ	kitchen	0	0
+#1087	カラー	からー	color (loan word)	0	0
+#1088	すり	すり	pickpocket	0	0
+#1089	キャンプ	きゃんぷ	camping, camp	0	0
+#1090	オートバイ	おーとばい	motorbike, motorcycle	0	0
+#1091	建つ	たつ	be built, be erected	0	0
+#1092	刺す	さす	sting, stab	0	0
+#1093	言い方	いいかた	way of speaking, expression	0	0
+#1094	沈む	しずむ	sink	0	0
+#1095	組み立てる	くみたてる	set up, put together	0	0
+#1096	恐ろしい	おそろしい	terrible, awful	0	0
+#1097	外人	がいじん	foreigner, alien	0	0
+#1098	牛	うし	cattle, cow	0	0
+#1099	食堂	しょくどう	cafeteria, restaurant	0	0
+#1100	毎年	まいとし	every year (formal)	0	0
+#1101	毎週	まいしゅう	every week	0	0
+#1102	何度	なんど	how many times, how many degrees	0	0
+#1103	なかなか	なかなか	not easily, not readily	0	0
+#1104	さっき	さっき	earlier, only a moment ago	0	0
+#1105	久しぶり	ひさしぶり	after a long time	0	0
+#1106	便利	べんり	convenience	0	0
+#1107	迷惑	めいわく	trouble, annoyance	0	0
+#1108	そんなに	そんなに	so much	0	0
+#1109	びっくりする	びっくりする	be surprised, be startled (casual)	0	0
+#1110	足りる	たりる	suffice, be enough	0	0
+#1111	疲れる	つかれる	get tired, become fatigued	0	0
+#1112	ひどい	ひどい	cruel, awful	0	0
+#1113	全然	ぜんぜん	(not ) at all	0	0
+#1114	猫	ねこ	cat	0	0
+#1115	デパート	でぱーと	department store (loan word)	0	0
+#1116	トイレ	といれ	toilet	0	0
+#1117	地下鉄	ちかてつ	subway	0	0
+#1118	駐車場	ちゅうしゃじょう	parking area, parking lot	0	0
+#1119	ぶつかる	ぶつかる	hit, bump into	0	0
+#1120	運賃	うんちん	(passenger) fare	0	0
+#1121	通学	つうがく	commuting to school	0	0
+#1122	見送る	みおくる	see (someone) off	0	0
+#1123	泣く	なく	cry, weep	0	0
+#1124	レストラン	れすとらん	restaurant	0	0
+#1125	メモ	めも	memo, note	0	0
+#1126	予約	よやく	reservation, appointment	0	0
+#1127	番号	ばんごう	assigned number	0	0
+#1128	注文	ちゅうもん	order	0	0
+#1129	パン	ぱん	bread	0	0
+#1130	ワイン	わいん	wine	0	0
+#1131	材料	ざいりょう	material, ingredient	0	0
+#1132	豚肉	ぶたにく	pork	0	0
+#1133	焼く	やく	bake, grill	0	0
+#1134	匂い	におい	(pleasant) smell, odor	0	0
+#1135	付ける	つける	attach, apply, put	0	0
+#1136	痩せる	やせる	lose weight, become thin	0	0
+#1137	届ける	とどける	deliver	0	0
+#1138	間に合う	まにあう	be in time, suffice	0	0
+#1139	向く	むく	turn, face	0	0
+#1140	強さ	つよさ	strength	0	0
+#1141	得意	とくい	one’s specialty, be good at	0	0
+#1142	塗る	ぬる	spread on, paint	0	0
+#1143	投げる	なげる	throw	0	0
+#1144	習う	ならう	learn, take lessons	0	0
+#1145	注目	ちゅうもく	attention, notice	0	0
+#1146	未来	みらい	future	0	0
+#1147	箱	はこ	box, case	0	0
+#1148	右手	みぎて	right hand	0	0
+#1149	左手	ひだりて	left hand	0	0
+#1150	プール	ぷーる	pool	0	0
+#1151	ピアノ	ぴあの	piano	0	0
+#1152	光る	ひかる	shine, emit light, sparkle	0	0
+#1153	踏む	ふむ	step on, tread on	0	0
+#1154	別々	べつべつ	separately	0	0
+#1155	ボール	ぼーる	ball	0	0
+#1156	握る	にぎる	grasp, grip, hold	0	0
+#1157	真っ赤	まっか	deep red	0	0
+#1158	拾う	ひろう	pick up	0	0
+#1159	回す	まわす	turn, rotate (something)	0	0
+#1160	ノート	のーと	notebook (loan word)	0	0
+#1161	辞める	やめる	resign, leave (one’s job), quit	0	0
+#1162	揺れる	ゆれる	shake, sway	0	0
+#1163	立派	りっぱ	fine, elegant	0	0
+#1164	練習	れんしゅう	practice, training	0	0
+#1165	割る	わる	divide, split	0	0
+#1166	部分	ぶぶん	part, section	0	0
+#1167	拭く	ふく	wipe, dry	0	0
+#1168	招く	まねく	invite	0	0
+#1169	急	きゅう	urgent, steep	0	0
+#1170	汚れる	よごれる	become dirty	0	0
+#1171	渡る	わたる	cross, go across	0	0
+#1172	途中	とちゅう	on the way, half way	0	0
+#1173	インタビュー	いんたびゅー	interview (loan word)	0	0
+#1174	盗む	ぬすむ	steal, rob	0	0
+#1175	普段	ふだん	usual, ordinary	0	0
+#1176	旅館	りょかん	Japanese inn	0	0
+#1177	博物館	はくぶつかん	museum	0	0
+#1178	ホーム	ほーむ	platform (for short)	0	0
+#1179	引っ越す	ひっこす	move, relocate	0	0
+#1180	荷物	にもつ	baggage, load	0	0
+#1181	家賃	やちん	rent	0	0
+#1182	計画	けいかく	plan	0	0
+#1183	廊下	ろうか	hallway, corridor	0	0
+#1184	天井	てんじょう	ceiling	0	0
+#1185	ベッド	べっど	bed	0	0
+#1186	ソファー	そふぁー	sofa, couch	0	0
+#1187	屋根	やね	roof	0	0
+#1188	祭り	まつり	festival	0	0
+#1189	離婚	りこん	divorce	0	0
+#1190	葉	は	leaf	0	0
+#1191	ボート	ぼーと	light boat, small craft	0	0
+#1192	燃える	もえる	burn, catch on fire	0	0
+#1193	巻く	まく	roll up, wrap	0	0
+#1194	プラスチック	ぷらすちっく	plastic	0	0
+#1195	訪れる	おとずれる	go and visit (place)	0	0
+#1196	破る	やぶる	tear, breach	0	0
+#1197	関係	かんけい	relation, relationship	0	0
+#1198	録音	ろくおん	(sound) recording	0	0
+#1199	不幸	ふこう	unhappiness, misfortune	0	0
+#1200	外国語	がいこくご	language	0	0
+#1201	着物	きもの	traditional Japanese clothes	0	0
+#1202	牛乳	ぎゅうにゅう	milk	0	0
+#1203	救急車	きゅうきゅうしゃ	ambulance	0	0
+#1204	果物	くだもの	fruit	0	0
+#1205	間違い	まちがい	mistake, error	0	0
+#1206	映画館	えいがかん	movie theater	0	0
+#1207	怖い	こわい	scary, be afraid	0	0
+#1208	鏡	かがみ	mirror	0	0
+#1209	草	くさ	grass, weed	0	0
+#1210	敬語	けいご	polite speech	0	0
+#1211	欠席	けっせき	absence	0	0
+#1212	スイッチ	すいっち	switch	0	0
+#1213	掃除	そうじ	cleaning	0	0
+#1214	畳	たたみ	straw mat	0	0
+#1215	速さ	はやさ	speed	0	0
+#1216	林	はやし	woods, forest	0	0
+#1217	プレゼント	ぷれぜんと	present (loan word)	0	0
+#1218	弁当	べんとう	boxed lunch	0	0
+#1219	いつでも	いつでも	at all times, any time	0	0
+#1220	寂しい	さびしい	lonely, desolate, sad	0	0
+#1221	少しも	すこしも	(not) in the least	0	0
+#1222	尊敬	そんけい	respect, esteem	0	0
+#1223	テニス	てにす	tennis	0	0
+#1224	広さ	ひろさ	area, extent	0	0
+#1225	読み	よみ	reading	0	0
+#1226	我慢	がまん	patience, endurance	0	0
+#1227	国籍	こくせき	nationality, citizenship	0	0
+#1228	恥ずかしい	はずかしい	embarrassed, ashamed	0	0
+#1229	ボタン	ぼたん	button	0	0
+#1230	洋服	ようふく	(western-style) clothes	0	0
+#1231	油	あぶら	oil	0	0
+#1232	おかしい	おかしい	funny, comical	0	0
+#1233	余る	あまる	remain, be in excess	0	0
+#1234	コート	こーと	sports court	0	0
+#1235	正直	しょうじき	honest, upright	0	0
+#1236	ドラマ	どらま	drama	0	0
+#1237	ビザ	びざ	visa	0	0
+#1238	水道	すいどう	tap water	0	0
+#1239	店員	てんいん	clerk, salesperson	0	0
+#1240	電池	でんち	battery	0	0
+#1241	ポケット	ぽけっと	pocket	0	0
+#1242	握手	あくしゅ	handshake	0	0
+#1243	そろそろ	そろそろ	soon, it’s about time	0	0
+#1244	ぶどう	ぶどう	grapes	0	0
+#1245	迷う	まよう	get lost	0	0
+#1246	見物	けんぶつ	sightseeing, visit	0	0
+#1247	知らせる	しらせる	let know, inform	0	0
+#1248	神社	じんじゃ	Shinto shrine	0	0
+#1249	注射	ちゅうしゃ	injection, shot	0	0
+#1250	めったに	めったに	rarely, seldom	0	0
+#1251	作文	さくぶん	composition, essay	0	0
+#1252	鳴る	なる	sound, ring	0	0
+#1253	真面目	まじめ	serious and sincere	0	0
+#1254	申し込む	もうしこむ	apply, sign up	0	0
+#1255	冷蔵庫	れいぞうこ	refrigerator	0	0
+#1256	気に入る	きにいる	like, be pleased with	0	0
+#1257	クリスマス	くりすます	Christmas	0	0
+#1258	ネクタイ	ねくたい	tie, necktie	0	0
+#1259	誕生日	たんじょうび	birthday	0	0
+#1260	独身	どくしん	single, unmarried	0	0
+#1261	苦い	にがい	bitter	0	0
+#1262	バイオリン	ばいおりん	violin	0	0
+#1263	バッグ	ばっぐ	bag	0	0
+#1264	今まで	いままで	until now	0	0
+#1265	切符	きっぷ	ticket	0	0
+#1266	ゴム	ごむ	elastic, rubber	0	0
+#1267	少々	しょうしょう	a little, a bit	0	0
+#1268	随分	ずいぶん	extremely, considerably	0	0
+#1269	引っ張る	ひっぱる	pull, drag	0	0
+#1270	焼ける	やける	burn, cook	0	0
+#1271	鉛筆	えんぴつ	pencil	0	0
+#1272	会話	かいわ	conversation	0	0
+#1273	ギター	ぎたー	guitar	0	0
+#1274	茶	ちゃ	tea	0	0
+#1275	暑さ	あつさ	heat (of weather)	0	0
+#1276	胃	い	stomach	0	0
+#1277	禁煙	きんえん	non-smoking	0	0
+#1278	丸い	まるい	round	0	0
+#1279	写る	うつる	be photographed	0	0
+#1280	喫茶店	きっさてん	coffee shop, café	0	0
+#1281	やっぱり	やっぱり	just as I thought, after all	0	0
+#1282	週刊誌	しゅうかんし	weekly magazine	0	0
+#1283	棚	たな	shelf, rack	0	0
+#1284	震える	ふるえる	tremble, shake	0	0
+#1285	磨く	みがく	polish, grind	0	0
+#1286	カーテン	かーてん	curtain	0	0
+#1287	火事	かじ	fire, blaze	0	0
+#1288	ナイフ	ないふ	knife	0	0
+#1289	皆さん	みなさん	everybody, everyone (polite)	0	0
+#1290	受ける	うける	receive, take, undergo	0	0
+#1291	付く	つく	stick to, cling to	0	0
+#1292	私	わたし	I (formal)	0	0
+#1293	結構	けっこう	quite	0	0
+#1294	悪口	わるくち	slander, abuse	0	0
+#1295	広まる	ひろまる	spread, get around	0	0
+#1296	内緒	ないしょ	secrecy, privacy	0	0
+#1297	つぶる	つぶる	close (eyes)	0	0
+#1298	用件	ようけん	matter, things to be done	0	0
+#1299	ロマンチック	ろまんちっく	romantic	0	0
+#1300	貯金	ちょきん	savings, deposit	0	0
+#1301	バイク	ばいく	motorcycle	0	0
+#1302	預かる	あずかる	take care of, keep	0	0
+#1303	オレンジ	おれんじ	orange	0	0
+#1304	噛む	かむ	bite, chew	0	0
+#1305	きつい	きつい	tight, tough	0	0
+#1306	越える	こえる	go over, go across	0	0
+#1307	小包	こづつみ	parcel, package	0	0
+#1308	新年	しんねん	new year	0	0
+#1309	配達	はいたつ	delivery	0	0
+#1310	動物園	どうぶつえん	zoo	0	0
+#1311	封筒	ふうとう	envelope	0	0
+#1312	危ない	あぶない	dangerous	0	0
+#1313	テキスト	てきすと	text, textbook	0	0
+#1314	ビニール	びにーる	plastic, vinyl	0	0
+#1315	アルバム	あるばむ	album	0	0
+#1316	水泳	すいえい	swimming	0	0
+#1317	混む	こむ	be crowded, be congested	0	0
+#1318	スカート	すかーと	skirt	0	0
+#1319	取れる	とれる	come off, be removed	0	0
+#1320	ペン	ぺん	pen	0	0
+#1321	物	もの	thing, object	0	0
+#1322	郵便	ゆうびん	mail service, postal mail	0	0
+#1323	割れる	われる	crack, split	0	0
+#1324	駅員	えきいん	station attendant	0	0
+#1325	おしゃべり	おしゃべり	talkative, chatty	0	0
+#1326	緑色	りょくしょく	green color	0	0
+#1327	毎朝	まいあさ	every morning	0	0
+#1328	曲げる	まげる	bend (something)	0	0
+#1329	きっと	きっと	surely, certainly	0	0
+#1330	理科	りか	science (school subject)	0	0
+#1331	下着	したぎ	underwear	0	0
+#1332	太る	ふとる	grow fat, gain weight	0	0
+#1333	冷房	れいぼう	air conditioning (cooling)	0	0
+#1334	別れる	わかれる	separate, part	0	0
+#1335	空く	あく	become available or vacant	0	0
+#1336	出掛ける	でかける	go out, leave home	0	0
+#1337	毎晩	まいばん	every evening	0	0
+#1338	指輪	ゆびわ	ring	0	0
+#1339	腐る	くさる	rot, go bad	0	0
+#1340	貧乏	びんぼう	poverty, destitution	0	0
+#1341	おしゃれ	おしゃれ	trendy, fashionable	0	0
+#1342	休憩	きゅうけい	break	0	0
+#1343	舌	した	tongue	0	0
+#1344	ジュース	じゅーす	juice	0	0
+#1345	ゼロ	ぜろ	zero, none (loan word)	0	0
+#1346	朝刊	ちょうかん	morning edition paper	0	0
+#1347	丁寧	ていねい	polite, careful	0	0
+#1348	苦手	にがて	not good at, be bad at	0	0
+#1349	日	にち	(specific) day, sun, daytime	0	0
+#1350	引っ越し	ひっこし	moving (house)	0	0
+#1351	歩道	ほどう	sidewalk, pavement	0	0
+#1352	折れる	おれる	break, snap	0	0
+#1353	見送り	みおくり	send-off	0	0
+#1354	夕刊	ゆうかん	evening edition paper	0	0
+#1355	この間	このかん	the other day, not so long ago	0	0
+#1356	冷える	ひえる	cool down, get chilled	0	0
+#1357	ピンク	ぴんく	pink	0	0
+#1358	グラス	ぐらす	glass	0	0
+#1359	毛	け	hair, down	0	0
+#1360	黒板	こくばん	blackboard	0	0
+#1361	積もる	つもる	pile up	0	0
+#1362	半年	はんとし	half a year	0	0
+#1363	現在	げんざい	the present, present time	0	0
+#1364	利用	りよう	utilization, usage	0	0
+#1365	方法	ほうほう	method, procedure	0	0
+#1366	中心	ちゅうしん	center (of a circle, etc.), core	0	0
+#1367	明らか	あきらか	clear, obvious	0	0
+#1368	社長	しゃちょう	president (of a company)	0	0
+#1369	ほぼ	ほぼ	almost, nearly	0	0
+#1370	商品	しょうひん	goods, commodities	0	0
+#1371	大型	おおがた	large, large scale	0	0
+#1372	限る	かぎる	be limited to	0	0
+#1373	記録	きろく	record, documentation	0	0
+#1374	具体的	ぐたいてき	concrete, specific	0	0
+#1375	効果	こうか	effect, result	0	0
+#1376	公開	こうかい	opening (to the public)	0	0
+#1377	作品	さくひん	work of art, creation	0	0
+#1378	迫る	せまる	close in on, approach	0	0
+#1379	大会	たいかい	tournament, event	0	0
+#1380	背景	はいけい	background, backdrop	0	0
+#1381	文字	もじ	character, letter, writing	0	0
+#1382	規則	きそく	rule, regulation	0	0
+#1383	近所	きんじょ	neighborhood	0	0
+#1384	グラフ	ぐらふ	chart, graph	0	0
+#1385	首都	しゅと	capital	0	0
+#1386	減らす	へらす	reduce (something)	0	0
+#1387	隠れる	かくれる	hide	0	0
+#1388	美術館	びじゅつかん	art museum	0	0
+#1389	ばか	ばか	foolish, stupid	0	0
+#1390	暇	ひま	free time, spare time	0	0
+#1391	絵葉書	えはがき	picture postcard	0	0
+#1392	あんなに	あんなに	that much, such	0	0
+#1393	行き	いき	going, bound for	0	0
+#1394	通勤	つうきん	commute	0	0
+#1395	ちゃんと	ちゃんと	correctly, properly	0	0
+#1396	のんびり	のんびり	take it easy	0	0
+#1397	緊張	きんちょう	tension, strain	0	0
+#1398	気付く	きづく	notice, realize	0	0
+#1399	物語	ものがたり	story, tale	0	0
+#1400	出口	でぐち	exit	0	0
+#1401	登る	のぼる	climb, go up	0	0
+#1402	真っ白	まっしろ	pure-white	0	0
+#1403	下ろす	くだろす	bring down, take down	0	0
+#1404	貸し出す	かしだす	lend, lend out	0	0
+#1405	サッカー	さっかー	soccer, football	0	0
+#1406	暖房	だんぼう	heating	0	0
+#1407	手袋	てぶくろ	gloves	0	0
+#1408	留守	るす	not at home	0	0
+#1409	嘘	うそ	lie	0	0
+#1410	遠慮	えんりょ	restraint, hold back	0	0
+#1411	折る	おる	break (something), fold (something)	0	0
+#1412	スープ	すーぷ	soup	0	0
+#1413	バナナ	ばなな	banana	0	0
+#1414	可哀相	かわいそう	poor, pitiful	0	0
+#1415	パトカー	ぱとかー	police car	0	0
+#1416	ハンバーガー	はんばーがー	hamburger	0	0
+#1417	毛布	もうふ	blanket	0	0
+#1418	エスカレーター	えすかれーたー	escalator	0	0
+#1419	お嬢さん	おじょうさん	young lady, daughter	0	0
+#1420	手帳	てちょう	pocket notebook	0	0
+#1421	タオル	たおる	towel	0	0
+#1422	売店	ばいてん	booth, shop	0	0
+#1423	パチンコ	ぱちんこ	pachinko (Japanese pinball)	0	0
+#1424	謝る	あやまる	apologize	0	0
+#1425	ケーキ	けーき	cake	0	0
+#1426	天気予報	てんきよほう	weather forecast	0	0
+#1427	変	へん	strange, weird	0	0
+#1428	一生懸命	いっしょうけんめい	hard-working, doing one’s best	0	0
+#1429	間違う	まちがう	make a mistake, be wrong	0	0
+#1430	事務室	じむしつ	office	0	0
+#1431	スーツ	すーつ	suit	0	0
+#1432	チケット	ちけっと	ticket (loan word)	0	0
+#1433	チョコレート	ちょこれーと	chocolate	0	0
+#1434	脱ぐ	ぬぐ	take off (clothes)	0	0
+#1435	年賀状	ねんがじょう	New Year’s card	0	0
+#1436	乗り物	のりもの	vehicle, transportation	0	0
+#1437	布団	ふとん	Japanese-style padded mattress	0	0
+#1438	役に立つ	やくにたつ	be useful, be helpful	0	0
+#1439	破れる	やぶれる	tear, rip open	0	0
+#1440	用事	ようじ	errand, business	0	0
+#1441	写す	うつす	copy, photograph	0	0
+#1442	腕時計	うでどけい	wrist watch	0	0
+#1443	贈り物	おくりもの	present, gift	0	0
+#1444	チャンネル	ちゃんねる	channel	0	0
+#1445	冷やす	ひやす	chill (something), cool down	0	0
+#1446	片付ける	かたづける	put in order, clean up	0	0
+#1447	乾杯	かんぱい	toast, drink (in celebration)	0	0
+#1448	停車	ていしゃ	stop (of a train)	0	0
+#1449	鳴く	なく	sing, cry (of animals)	0	0
+#1450	ガソリンスタンド	がそりんすたんど	gas station	0	0
+#1451	片道	かたみち	one way (trip)	0	0
+#1452	交番	こうばん	police box	0	0
+#1453	大分	おおいた	greatly, fairly, highly	0	0
+#1454	デート	でーと	date, romantic meeting	0	0
+#1455	梅雨	つゆ	rainy season	0	0
+#1456	真っ直ぐ	まっすぐぐ	straight	0	0
+#1457	レモン	れもん	lemon	0	0
+#1458	上着	うわぎ	outerwear, coat, jacket	0	0
+#1459	偉い	えらい	great, eminent	0	0
+#1460	書き方	かきかた	how to write, way of writing	0	0
+#1461	炊く	たく	cook (rice)	0	0
+#1462	チーズ	ちーず	cheese	0	0
+#1463	ドライブ	どらいぶ	drive (loan word)	0	0
+#1464	踏切	ふみきり	railroad crossing	0	0
+#1465	ラケット	らけっと	racket	0	0
+#1466	受付	うけつけ	receptionist, information office	0	0
+#1467	怒る	いかる	get angry, scold	0	0
+#1468	化粧	けしょう	makeup	0	0
+#1469	都合	つごう	convenience, availability	0	0
+#1470	ひげ	ひげ	beard, moustache	0	0
+#1471	本棚	ほんだな	bookshelf, bookcase	0	0
+#1472	真っ暗	まっくら	pitch-dark	0	0
+#1473	沸く	わく	boil, get loud (crowd applause etc.)	0	0
+#1474	売り切れる	うりきれる	sell out, go out of stock	0	0
+#1475	押し入れ	おしいれ	sliding-door closet	0	0
+#1476	革	かわ	leather	0	0
+#1477	ぐっすり	ぐっすり	soundly	0	0
+#1478	紅茶	こうちゃ	black tea	0	0
+#1479	邪魔	じゃま	disturbance, blocking	0	0
+#1480	ソース	そーす	sauce	0	0
+#1481	足す	たす	add (things of the same kind)	0	0
+#1482	トマト	とまと	tomato	0	0
+#1483	バター	ばたー	butter	0	0
+#1484	発車	はっしゃ	departure (of a vehicle)	0	0
+#1485	バレーボール	ばれーぼーる	volleyball	0	0
+#1486	おかず	おかず	dishes to go with the rice	0	0
+#1487	カレンダー	かれんだー	calendar	0	0
+#1488	とにかく	とにかく	in any case, anyway	0	0
+#1489	楽しみ	たのしみ	enjoyment, something looked forward to	0	0
+#1490	おしゃべり	おしゃべり	chatter, idle talk	0	0
+#1491	読書	どくしょ	reading books	0	0
+#1492	寒気	さむけ	chill	0	0
+#1493	夕焼け	ゆうやけ	sunset glow	0	0
+#1494	傷める	いためる	damage, hurt	0	0
+#1495	くすぐったい	くすぐったい	ticklish	0	0
+#1496	泥棒	どろぼう	thief, burglar	0	0
+#1497	襖	ふすま	paper sliding door	0	0
+#1498	美人	びじん	beautiful woman	0	0
+#1499	タイプライター	たいぷらいたー	typewriter	0	0
+#1500	再来年	さらいねん	the year after next	0	0
+#1501	冗談	じょうだん	joke	0	0
+#1502	近付く	ちかづく	approach, come close	0	0
+#1503	電話帳	でんわちょう	telephone book	0	0
+#1504	ベル	べる	bell	0	0
+#1505	干す（ほす）	ほす（ほす）	hang (something) out to dry	0	0
+#1506	金額	きんがく	amount of money, sum	0	0
+#1507	蚊	か	mosquito	0	0
+#1508	悲しむ	かなしむ	feel sad, lament	0	0
+#1509	クーラー	くーらー	air conditioner (cooling)	0	0
+#1510	失礼	しつれい	rudeness, to excuse oneself	0	0
+#1511	洗濯機	せんたくき	washing machine, washer	0	0
+#1512	豆腐	とうふ	tofu	0	0
+#1513	昼寝	ひるね	nap	0	0
+#1514	不便	ふべん	inconvenient	0	0
+#1515	ミルク	みるく	milk (loan word)	0	0
+#1516	向こう側	むこうがわ	other side	0	0
+#1517	億	おく	hundred million	0	0
+#1518	お礼	おれい	thanks, gratitude	0	0
+#1519	着せる	きせる	dress (someone)	0	0
+#1520	サラダ	さらだ	salad	0	0
+#1521	代える	かえる	substitute for	0	0
+#1522	四角	しかく	square	0	0
+#1523	急行	きゅうこう	express train	0	0
+#1524	交差点	こうさてん	crossing, intersection	0	0
+#1525	覚める	さめる	awake, wake up (naturally)	0	0
+#1526	昼休み	ひるやすみ	lunch break	0	0
+#1527	ベルト	べると	belt	0	0
+#1528	真っ黒	まっくろ	black, jet-black	0	0
+#1529	皆様	みなさま	everyone, ladies and gentlemen	0	0
+#1530	ラーメン	らーめん	ramen (Chinese noodles)	0	0
+#1531	ライター	らいたー	lighter	0	0
+#1532	ワイシャツ	わいしゃつ	business shirt, dress shirt	0	0
+#1533	転ぶ	ころぶ	fall down, fall over	0	0
+#1534	シャワー	しゃわー	shower	0	0
+#1535	扇風機	せんぷうき	electric fan	0	0
+#1536	遅刻	ちこく	tardiness, lateness	0	0
+#1537	釣る	つる	fish, catch	0	0
+#1538	うどん	うどん	Japanese wheat noodles	0	0
+#1539	仮名	かな	kana	0	0
+#1540	記念日	きねんび	memorial day, anniversary	0	0
+#1541	下り	くだり	downhill, going down	0	0
+#1542	掲示板	けいじばん	notice board, bulletin board	0	0
+#1543	凍る	こおる	freeze	0	0
+#1544	ごみ	ごみ	trash	0	0
+#1545	スーパーマーケット	すーぱーまーけっと	supermarket	0	0
+#1546	ぶらぶら	ぶらぶら	wander, walk around	0	0
+#1547	アナウンサー	あなうんさー	announcer	0	0
+#1548	自炊	じすい	cooking (for oneself)	0	0
+#1549	止める	やめる	stop (something/someone)	0	0
+#1550	年下	としした	younger, junior	0	0
+#1551	治す	なおす	cure (something)	0	0
+#1552	箸	はし	chopsticks	0	0
+#1553	花見	はなみ	flower viewing	0	0
+#1554	引き出し	ひきだし	drawer	0	0
+#1555	訳	わけ	translation	0	0
+#1556	いかが	いかが	how	0	0
+#1557	交通費	こうつうひ	traveling expense, transportation fee	0	0
+#1558	ステレオ	すてれお	stereo	0	0
+#1559	再会	さいかい	meeting again, reunion	0	0
+#1560	滑る	すべる	slide, slip	0	0
+#1561	早口	はやくち	speaking fast	0	0
+#1562	裏返す	うらかえす	turn over, turn inside out	0	0
+#1563	角	かく	corner, edge	0	0
+#1564	きらきら	きらきら	sparkling, glittering	0	0
+#1565	三角	さんかく	figure, area etc.	0	0
+#1566	激しい	はげしい	violent, intense	0	0
+#1567	経営	けいえい	management, operation	0	0
+#1568	拡大	かくだい	magnification, enlargement	0	0
+#1569	姿勢	しせい	posture, attitude	0	0
+#1570	周辺	しゅうへん	area, region	0	0
+#1571	他	ほか	other (Chinese origin)	0	0
+#1572	達する	たっする	attain, reach	0	0
+#1573	当時	とうじ	at that time	0	0
+#1574	当然	とうぜん	natural, as a matter of course	0	0
+#1575	能力	のうりょく	capability, performance ability of machine, etc.	0	0
+#1576	判断	はんだん	judgment, decision	0	0
+#1577	過ぎる	すぎる	pass by, go past	0	0
+#1578	正確	せいかく	accurate, precise	0	0
+#1579	戦争	せんそう	war between countries	0	0
+#1580	放送	ほうそう	broadcasting	0	0
+#1581	習慣	しゅうかん	custom, habit	0	0
+#1582	フィルム	ふぃるむ	film	0	0
+#1583	受け付ける	うけつける	receive, accept	0	0
+#1584	ダンス	だんす	dance, dancing (loan word)	0	0
+#1585	こんなに	こんなに	this much, such	0	0
+#1586	吹く	ふく	blow, play (a wind instrument)	0	0
+#1587	まあ	まあ	well (interjection)	0	0
+#1588	メール	めーる	e-mail	0	0
+#1589	インターネット	いんたーねっと	Internet	0	0
+#1590	出身	しゅっしん	come from, origin	0	0
+#1591	職業	しょくぎょう	occupation, job	0	0
+#1592	スター	すたー	star	0	0
+#1593	くだらない	くだらない	worthless, trifling	0	0
+#1594	名簿	めいぼ	name list	0	0
+#1595	通常	つうじょう	common, usually, typically	0	0
+#1596	家内	かない	one’s wife	0	0
+#1597	消防署	しょうぼうしょ	fire station	0	0
+#1598	再び	ふたたび	again, a second time	0	0
+#1599	大統領	だいとうりょう	president (of a country)	0	0
+#1600	入場券	にゅうじょうけん	entrance ticket	0	0
+#1601	ネックレス	ねっくれす	necklace	0	0
+#1602	パジャマ	ぱじゃま	pajamas	0	0
+#1603	ボールペン	ぼーるぺん	ballpoint pen	0	0
+#1604	かゆい	かゆい	itchy	0	0
+#1605	覚ます	さます	awaken, wake up	0	0
+#1606	すいか	すいか	watermelon	0	0
+#1607	そば	そば	buckwheat noodles	0	0
+#1608	特急	とっきゅう	super-express	0	0
+#1609	のり	のり	glue, starch	0	0
+#1610	大抵	たいてい	generally, mostly	0	0
+#1611	バスケットボール	ばすけっとぼーる	basketball	0	0
+#1612	酔っ払う	よっはらう	get drunk	0	0
+#1613	どきどき	どきどき	feel excited, feel nervous	0	0
+#1614	欲しがる	ほっしがる	want, desire (of the third person)	0	0
+#1615	早起き	はやおき	getting up early	0	0
+#1616	味噌汁	みそしる	miso soup	0	0
+#1617	読み方	よみかた	how to read, way of reading	0	0
+#1618	入り口	いりぐち	entrance	0	0
+#1619	降ろす	ふろす	unload, set down	0	0
+#1620	掛かる	かかる	hang	0	0
+#1621	サンドイッチ	さんどいっち	sandwich	0	0
+#1622	四角い	しかくい	square-shaped	0	0
+#1623	突き当たる	つきあたる	run into, come to the end (of a road)	0	0
+#1624	乾かす	かわかす	dry (something)	0	0
+#1625	定期券	ていきけん	commuter pass	0	0
+#1626	にこにこ	にこにこ	smilingly, keep smiling	0	0
+#1627	下る	くだる	go down, go away from	0	0
+#1628	ウール	うーる	wool	0	0
+#1629	コーラ	こーら	cola, coke	0	0
+#1630	トイレットペーパー	といれっとぺーぱー	toilet paper	0	0
+#1631	乗り換え	のりかえ	transfer, change (trains)	0	0
+#1632	灰皿	はいざら	ashtray	0	0
+#1633	ハム	はむ	ham	0	0
+#1634	床	とこ	floor	0	0
+#1635	ローマ字	ろーまじ	Roman alphabet	0	0
+#1636	いちご	いちご	strawberry	0	0
+#1637	カレーライス	かれーらいす	curry rice	0	0
+#1638	キャッシュカード	きゃっしゅかーど	cash card	0	0
+#1639	停留所	ていりゅうしょ	(bus) stop	0	0
+#1640	床屋	とこや	barber, barbershop	0	0
+#1641	歯磨き	はみがき	brushing one’s teeth	0	0
+#1642	夕飯	ゆうはん	evening meal, dinner	0	0
+#1643	酔っ払い	よっはらい	drunkard, drunk	0	0
+#1644	例	れい	example	0	0
+#1645	お辞儀	おじぎ	bow	0	0
+#1646	横断歩道	おうだんほどう	pedestrian crossing, crosswalk	0	0
+#1647	ぐらぐら	ぐらぐら	shaky, unstable	0	0
+#1648	航空便	こうくうびん	airmail, airfreight	0	0
+#1649	ジャム	じゃむ	jam	0	0
+#1650	スリッパ	すりっぱ	slippers	0	0
+#1651	畳む	たたむ	fold, shut, close	0	0
+#1652	トランプ	とらんぷ	playing cards	0	0
+#1653	日陰	ひかげ	shade of the sun	0	0
+#1654	文房具	ぶんぼうぐ	stationery, writing materials	0	0
+#1655	免許証	めんきょしょう	license	0	0
+#1656	訳す	やくす	translate	0	0
+#1657	よろしい	よろしい	all right	0	0
+#1658	両替	りょうがえ	money exchange	0	0
+#1659	片付く	かたづく	be put in order, be finished	0	0
+#1660	カップ	かっぷ	cup	0	0
+#1661	消しゴム	けしごむ	eraser	0	0
+#1662	スケート	すけーと	skate, skates	0	0
+#1663	鍋	なべ	pan	0	0
+#1664	寝坊	ねぼう	oversleeping	0	0
+#1665	鋏	はさみ	scissors	0	0
+#1666	真っ青	まっさお	deep-blue, pale	0	0
+#1667	汚す	よごす	make (something) dirty	0	0
+#1668	忘れ物	わすれもの	something left behind, lost item	0	0
+#1669	掛け算	かけざん	multiplication	0	0
+#1670	臭い	くさい	stinky	0	0
+#1671	突き当たり	つきあたり	end of a street	0	0
+#1672	マフラー	まふらー	scarf, muffler	0	0
+#1673	桃	もも	peach	0	0
+#1674	アクセサリー	あくせさりー	accessories, jewelry	0	0
+#1675	あくび	あくび	yawn	0	0
+#1676	あめ	あめ	candy	0	0
+#1677	上り	のぼり	going up, ascent	0	0
+#1678	なるべく	なるべく	as…as possible, if possible	0	0
+#1679	じっと	じっと	without moving, still	0	0
+#1680	食器	しょっき	tableware	0	0
+#1681	延ばす	のばす	extend, postpone	0	0
+#1682	薬局	やっきょく	drugstore, pharmacy	0	0
+#1683	雄	おす	male (animal)	0	0
+#1684	雌	めす	female (animal)	0	0
+#1685	和風	わふう	Japanese inspired	0	0
+#1686	いびき	いびき	snoring	0	0
+#1687	ピクニック	ぴくにっく	picnic	0	0
+#1688	地域	ちいき	region, area	0	0
+#1689	勘違い	かんちがい	misunderstanding, wrong idea or assumption	0	0
+#1690	重要	じゅうよう	important, essential	0	0
+#1691	主人	しゅじん	one’s husband, master	0	0
+#1692	お宅	おたく	(someone else’s) home	0	0
+#1693	ハイキング	はいきんぐ	hiking	0	0
+#1694	畑	はたけ	field, farm	0	0
+#1695	ボーイフレンド	ぼーいふれんど	boyfriend	0	0
+#1696	イヤリング	いやりんぐ	earrings	0	0
+#1697	ガールフレンド	がーるふれんど	girlfriend	0	0
+#1698	柔らか	やわらか	soft, gentle	0	0
+#1699	納豆	なっとう	fermented soybeans	0	0
+#1700	別に	べつに	particularly, not really	0	0
+#1701	どうしても	どうしても	by any means, really	0	0
+#1702	父親	ちちおや	father	0	0
+#1703	誘う	さそう	invite, ask out	0	0
+#1704	母親	ははおや	mother, female parent	0	0
+#1705	昼前	ひるまえ	in the morning, before noon	0	0
+#1706	ふらふら	ふらふら	be dizzy, lightheaded	0	0
+#1707	こぼす	こぼす	spill (something)	0	0
+#1708	持ってくる	もってくる	bring	0	0
+#1709	振り向く	ふりむく	turn around, look back	0	0
+#1710	洗面所	せんめんじょ	washroom, bathroom	0	0
+#1711	外側	そとがわ	exterior, outside	0	0
+#1712	段々	だんだん	gradually, little by little	0	0
+#1713	包む	つつむ	wrap, pack	0	0
+#1714	無くなる	なくなる	get lost, go missing	0	0
+#1715	豚	ぶた	pig	0	0
+#1716	褒める	ほめる	praise, compliment	0	0
+#1717	沸かす	わかす	boil (water)	0	0
+#1718	暖める	あたためる	warm (something) up	0	0
+#1719	換える	かえる	exchange, convert	0	0
+#1720	安っぽい	やすっぽい	cheap-looking, tacky	0	0
+#1721	ぎらぎら	ぎらぎら	glaring, blinding	0	0
+#1722	何とか	なんとか	somehow, please	0	0
+#1723	いよいよ	いよいよ	finally, any moment	0	0
+#1724	がらがら	がらがら	not crowded	0	0
+#1725	缶詰	かんづめ	canned food	0	0
+#1726	怪我	けが	injury	0	0
+#1727	寒さ	さむさ	coldness, cold	0	0
+#1728	祝日	しゅくじつ	holiday	0	0
+#1729	すき焼き	すきやき	sukiyaki	0	0
+#1730	葉書	はがき	postcard	0	0
+#1731	掃く	はく	sweep	0	0
+#1732	何しろ	なにしろ	anyhow, as you may know	0	0
+#1733	どんどん	どんどん	quickly, rapidly	0	0
+#1734	ぺこぺこ	ぺこぺこ	hungry, starving	0	0
+#1735	ぺらぺら	ぺらぺら	fluently	0	0
+#1736	レインコート	れいんこーと	raincoat	0	0
+#1737	アイス	あいす	ice cream (for short)	0	0
+#1738	塩辛い	しおからい	salty	0	0
+#1739	セロテープ	せろてーぷ	scotch tape	0	0
+#1740	大幅	おおはば	drastically, substantially	0	0
+#1741	教育	きょういく	education	0	0
+#1742	工事	こうじ	construction, repairing	0	0
+#1743	担当	たんとう	person in charge (of official duties)	0	0
+#1744	法律	ほうりつ	law	0	0
+#1745	丸	まる	circle, round	0	0
+#1746	発表	はっぴょう	announcement	0	0
+#1747	研究	けんきゅう	research, study	0	0
+#1748	一方	いっぽう	one way, the other party	0	0
+#1749	国内	こくない	domestic, internal	0	0
+#1750	全体	ぜんたい	whole, total	0	0
+#1751	後	のち	after, afterward	0	0
+#1752	人間	にんげん	human being	0	0
+#1753	刺身	さしみ	sliced raw fish or meat	0	0
+#1754	ばら	ばら	rose	0	0
+#1755	ねずみ	ねずみ	rat, mouse	0	0
+#1756	以下	いか	below	0	0
+#1757	昔	むかし	old times, the old days	0	0
+#1758	訳	わけ	reason, sense	0	0
+#1759	違い	ちがい	difference, mistake	0	0
+#1760	しっかり	しっかり	mature, responsible	0	0
+#1761	将来	しょうらい	future, in the future	0	0
+#1762	不思議	ふしぎ	mystery, wonder	0	0
+#1763	決して	けっして	never, by no means	0	0
+#1764	失敗	しっぱい	failure, mistake	0	0
+#1765	番	ばん	one’s turn, watch	0	0
+#1766	出会う	であう	meet, encounter	0	0
+#1767	悩む	なやむ	be troubled, suffer	0	0
+#1768	汗	あせ	sweat	0	0
+#1769	すっかり	すっかり	all, completely	0	0
+#1770	代わり	かわり	substitution, alternative	0	0
+#1771	一言	ひとこと	single word, brief speech	0	0
+#1772	豊か	ゆたか	rich, ample	0	0
+#1773	接続	せつぞく	connection, joining	0	0
+#1774	抱える	かかえる	hold in one’s arms	0	0
+#1775	エンジン	えんじん	engine	0	0
+#1776	少女	しょうじょ	young girl	0	0
+#1777	無駄	むだ	pointless, waste	0	0
+#1778	自動	じどう	automatic operation	0	0
+#1779	先輩	せんぱい	senior, superior	0	0
+#1780	眺める	ながめる	look out, gaze	0	0
+#1781	書類	しょるい	documents, papers	0	0
+#1782	年月	としつき	years, period of time	0	0
+#1783	燃やす	もやす	burn (something)	0	0
+#1784	線路	せんろ	railway track, line	0	0
+#1785	水着	みずぎ	bathing suit, swimsuit	0	0
+#1786	可愛らしい	かわいらしい	lovely, charming	0	0
+#1787	仲良し	なかよし	good friend	0	0
+#1788	梅干し	うめぼし	pickled plum	0	0
+#1789	ドレス	どれす	formal dress	0	0
+#1790	尽くす	つくす	make utmost efforts, devote to	0	0
+#1791	地球	ちきゅう	the earth	0	0
+#1792	不親切	ふしんせつ	unkind, inconsiderate	0	0
+#1793	からから	からから	very thirsty, very dry	0	0
+#1794	本箱	ほんばこ	bookcase	0	0
+#1795	横書き	よこがき	horizontal writing	0	0
+#1796	そば屋	そばや	buckwheat noodle shop	0	0
+#1797	加工	かこう	processing	0	0
+#1798	実験	じっけん	experiment	0	0
+#1799	愛する	あいする	love, care for	0	0
+#1800	あんまり	あんまり	(not) that much, (not) so much	0	0
+#1801	いきなり	いきなり	all of a sudden, suddenly	0	0
+#1802	表	おもて	front, outside	0	0
+#1803	汚れ	よごれ	dirt, blot	0	0
+#1804	間	かん	interval, space between things	0	0
+#1805	紫	むらさき	purple	0	0
+#1806	灰色	はいいろ	ash color, gray	0	0
+#1807	血	ち	blood (colloquial)	0	0
+#1808	顎	あご	jaw, chin	0	0
+#1809	始めに	はじめに	in the beginning, first	0	0
+#1810	暖まる	あたたまる	get warm	0	0
+#1811	お世辞	おせじ	compliment, flattery	0	0
+#1812	袋	ふくろ	bag, sack	0	0
+#1813	長袖	ながそで	long sleeves	0	0
+#1814	半袖	はんそで	short sleeves	0	0
+#1815	形	かたち	shape, form	0	0
+#1816	景色	けしき	natural scenery or landscape	0	0
+#1817	ざあざあ	ざあざあ	pouring	0	0
+#1818	再来月	さらいげつ	the month after next	0	0
+#1819	泊める	とめる	let (someone) stay over	0	0
+#1820	叱る	しかる	scold, reprimand	0	0
+#1821	騒ぐ	さわぐ	make a noise, make a racket	0	0
+#1822	車道	しゃどう	road, roadway (for cars)	0	0
+#1823	掃除機	そうじき	vacuum cleaner	0	0
+#1824	剃る	そる	shave	0	0
+#1825	貼る	はる	stick, paste, put	0	0
+#1826	台	だい	stand, table	0	0
+#1827	主に	おもに	mostly, predominantly	0	0
+#1828	倒す	たおす	knock down, overthrow	0	0
+#1829	星	ほし	star, planet	0	0
+#1830	長女	ちょうじょ	eldest daughter	0	0
+#1831	爪	つめ	nail, claw	0	0
+#1832	缶	かん	can, tin	0	0
+#1833	とんとん	とんとん	tapping, patting	0	0
+#1834	袖	そで	sleeve	0	0
+#1835	濡れる	ぬれる	get wet	0	0
+#1836	パーセント	ぱーせんと	percent	0	0
+#1837	上がる	あがる	go up, increase (in quality or quantity)	0	0
+#1838	拍手	はくしゅ	applause, clapping	0	0
+#1839	弾く	ひく	play (instruments)	0	0
+#1840	ひも	ひも	laces, string	0	0
+#1841	昼過ぎ	ひるすぎ	early afternoon	0	0
+#1842	船	ふね	ship, vessel	0	0
+#1843	まく	まく	scatter, sprinkle	0	0
+#1844	姪	めい	niece	0	0
+#1845	個人	こじん	individual person	0	0
+#1846	歌手	かしゅ	singer	0	0
+#1847	社員	しゃいん	staff member, employee	0	0
+#1848	不動産屋	ふどうさんや	real estate agent	0	0
+#1849	最大	さいだい	biggest, largest	0	0
+#1850	動き	うごき	movement, motion	0	0
+#1851	事件	じけん	affair, incident	0	0
+#1852	過去	かこ	the past	0	0
+#1853	協力	きょうりょく	cooperation, collaboration	0	0
+#1854	時期	じき	time, season	0	0
+#1855	経つ	へつ	pass, elapse	0	0
+#1856	雷	かみなり	thunder, lightning	0	0
+#1857	責任	せきにん	responsibility	0	0
+#1858	願う	ねがう	wish, desire	0	0
+#1859	発見	はっけん	discovery, revelation	0	0
+#1860	気	き	spirit, temperament	0	0
+#1861	美容院	びよういん	hair salon	0	0
+#1862	状況	じょうきょう	state of affairs, conditions	0	0
+#1863	目的	もくてき	objective, purpose	0	0
+#1864	企業	きぎょう	corporation, business	0	0
+#1865	釣り	つり	fishing	0	0
+#1866	漫画	まんが	comics, cartoon	0	0
+#1867	温泉	おんせん	hot spring	0	0
+#1868	トレーニング	とれーにんぐ	training, workout	0	0
+#1869	噂	うわさ	gossip, rumor	0	0
+#1870	本物	ほんもの	real, truly worthy (things, people)	0	0
+#1871	アイデア	あいであ	idea	0	0
+#1872	地下	ちか	underground	0	0
+#1873	マーケット	まーけっと	market	0	0
+#1874	スケジュール	すけじゅーる	schedule (loan word)	0	0
+#1875	出張	しゅっちょう	business trip	0	0
+#1876	コック	こっく	cook, chef	0	0
+#1877	正午	しょうご	noon	0	0
+#1878	ブラシ	ぶらし	brush	0	0
+#1879	書き取る	かきとる	write down, note down	0	0
+#1880	歓迎	かんげい	welcome, greet	0	0
+#1881	開発	かいはつ	development	0	0
+#1882	郵便屋さん	ゆうびんやさん	mail carrier	0	0
+#1883	会長	かいちょう	president, chairperson	0	0
+#1884	金	きん	gold	0	0
+#1885	灰	はい	ashes	0	0
+#1886	骨	ほね	bone	0	0
+#1887	風呂屋	ふろや	bathhouse, public bath	0	0
+#1888	細か	こまか	small, fine, detailed	0	0
+#1889	行き	いき	going, bound for (traditional reading)	0	0
+#1890	人々	ひとびと	people	0	0
+#1891	寺	てら	temple	0	0
+#1892	鶏	にわとり	rooster, hen	0	0
+#1893	港	みなと	port, harbor	0	0
+#1894	移る	うつる	move, shift	0	0
+#1895	異なる	ことなる	differ	0	0
+#1896	提供	ていきょう	offer, provide	0	0
+#1897	市民	しみん	citizens	0	0
+#1898	患者	かんじゃ	patient	0	0
+#1899	元旦	がんたん	morning of the January 1st, New Year’s Day	0	0
+#1900	柔らかい	やわらかい	soft, gentle	0	0
+#1901	似合う	にあう	suit, match well	0	0
+#1902	確かめる	たしかめる	check, confirm	0	0
+#1903	背中	せなか	(one’s) back	0	0
+#1904	肌	はだ	human skin, surface	0	0
+#1905	順番	じゅんばん	order, turn	0	0
+#1906	まとも	まとも	sane, reasonable	0	0
+#1907	ぴったり	ぴったり	exactly right, perfect	0	0
+#1908	思わず	おもわず	unintentionally, unconsciously	0	0
+#1909	より	より	even more ~, even less ~	0	0
+#1910	もったいない	もったいない	wasteful, a shame	0	0
+#1911	情報	じょうほう	information	0	0
+#1912	諦める	あきらめる	abandon, give up	0	0
+#1913	懐かしい	なつかしい	fondly-remembered, long-forgotten	0	0
+#1914	怪しい	あやしい	suspicious, dubious	0	0
+#1915	示す	しめす	show, indicate	0	0
+#1916	たっぷり	たっぷり	fully, amply	0	0
+#1917	早速	さっそく	immediately, right away	0	0
+#1918	偶然	ぐうぜん	by chance, coincidence	0	0
+#1919	続き	つづき	continuation, sequel	0	0
+#1920	合計	ごうけい	sum, total	0	0
+#1921	傷	きず	wound, scar	0	0
+#1922	面倒	めんどう	troublesome, difficult	0	0
+#1923	具合	ぐあい	condition, health	0	0
+#1924	中止	ちゅうし	suspension, cancellation	0	0
+#1925	手続き	てつづき	procedure, proceeding	0	0
+#1926	結果	けっか	result, outcome	0	0
+#1927	建設	けんせつ	construction (of a building, road, bridge, etc.)	0	0
+#1928	販売	はんばい	sale, selling	0	0
+#1929	機能	きのう	function, feature	0	0
+#1930	頃	ごろ	time, the time when ~	0	0
+#1931	日中	にっちゅう	during the day	0	0
+#1932	今後	こんご	in the future, from now on	0	0
+#1933	影響	えいきょう	influence, effect	0	0
+#1934	分野	ぶんや	field, area	0	0
+#1935	関する	かんする	relate to, regarding	0	0
+#1936	状態	じょうたい	state, condition	0	0
+#1937	価格	かかく	price, value	0	0
+#1938	姿	すがた	figure, appearance	0	0
+#1939	期待	きたい	expectation, anticipation	0	0
+#1940	除く	のぞく	remove, exclude	0	0
+#1941	一般	いっぱん	general, common	0	0
+#1942	表現	ひょうげん	expression	0	0
+#1943	完成	かんせい	completion, finish making or building something	0	0
+#1944	変化	へんか	change, alteration	0	0
+#1945	参加	さんか	participation	0	0
+#1946	土地	とち	land	0	0
+#1947	検討	けんとう	examination and consideration	0	0
+#1948	開始	かいし	beginning	0	0
+#1949	備える	そなえる	provide for, prepare for	0	0
+#1950	内容	ないよう	content	0	0
+#1951	与える	あたえる	give (formal)	0	0
+#1952	広がる	ひろがる	spread out, extend	0	0
+#1953	事実	じじつ	fact, truth	0	0
+#1954	決定	けってい	decision	0	0
+#1955	住宅	じゅうたく	housing, residence	0	0
+#1956	代表	だいひょう	representative	0	0
+#1957	命令	めいれい	command, order	0	0
+#1958	立場	たちば	standpoint, position	0	0
+#1959	なお	なお	still, in addition	0	0
+#1960	計算	けいさん	calculation	0	0
+#1961	可能	かのう	possible, potential	0	0
+#1962	報告	ほうこく	report	0	0
+#1963	都市	とし	city, town	0	0
+#1964	政治	せいじ	politics	0	0
+#1965	競争	きょうそう	competition	0	0
+#1966	原因	げんいん	cause, origin	0	0
+#1967	活動	かつどう	activity	0	0
+#1968	歴史	れきし	history	0	0
+#1969	表	おもて	table, list	0	0
+#1970	サイト	さいと	website	0	0
+#1971	土産	みやげ	souvenir (plain)	0	0
+#1972	臭い	くさい	(bad) smell	0	0
+#1973	現金	げんきん	cash	0	0
+#1974	虫	むし	insect, bug	0	0
+#1975	寄る	よる	stop by, stop off	0	0
+#1976	田舎	いなか	hometown, countryside	0	0
+#1977	帰宅	きたく	return home, come home	0	0
+#1978	重大	じゅうだい	important, serious	0	0
+#1979	マイナス	まいなす	minus, below zero	0	0
+#1980	稼ぐ	かせぐ	earn, make money	0	0
+#1981	左右	さゆう	right and left	0	0
+#1982	痛み	いたみ	pain, ache	0	0
+#1983	誤解	ごかい	misunderstanding	0	0
+#1984	文句	もんく	complaint, grumble	0	0
+#1985	欧米	おうべい	Europe and America	0	0
+#1986	面接	めんせつ	interview	0	0
+#1987	サイン	さいん	signature, autograph	0	0
+#1988	年中	ねんじゅう	all year	0	0
+#1989	機嫌	きげん	mood, health	0	0
+#1990	居間	いま	living room	0	0
+#1991	度々	たびたび	often	0	0
+#1992	例文	れいぶん	example sentence	0	0
+#1993	怠ける	なまける	be lazy, slack off	0	0
+#1994	転勤	てんきん	change of job location, relocation	0	0
+#1995	政府	せいふ	government, administration	0	0
+#1996	所有	しょゆう	ownership, own	0	0
+#1997	いずれ	いずれ	sometime later, eventually	0	0
+#1998	対する	たいする	face, be in response to	0	0
+#1999	教会	きょうかい	church	0	0
+#2000	ご存知	ごぞんじ	know (honorific)	0	0
+#2001	雀	すずめ	sparrow	0	0
+#2002	適当	てきとう	proper, adequate	0	0
+#2003	残り	のこり	rest, leftover	0	0
+#2004	戻す	もどす	put (something) back	0	0
+#2005	体重	たいじゅう	body weight	0	0
+#2006	どうせ	どうせ	anyway	0	0
+#2007	あれこれ	あれこれ	this and that, one thing or another	0	0
+#2008	湖	みずうみ	lake	0	0
+#2009	とうとう	とうとう	finally, in the end	0	0
+#2010	負け	まけ	defeat, loss	0	0
+#2011	悔しい	くやしい	frustrating, regrettable	0	0
+#2012	姉妹	しまい	sisters	0	0
+#2013	助かる	たすかる	be helped, be rescued	0	0
+#2014	手前	てまえ	in front	0	0
+#2015	さっぱり	さっぱり	completely not	0	0
+#2016	ついで	ついで	on the way, to take the opportunity	0	0
+#2017	すっきり	すっきり	refreshed	0	0
+#2018	とんでもない	とんでもない	unthinkable, outrageous	0	0
+#2019	坂	さか	slope, hill	0	0
+#2020	飛び込む	とびこむ	dive into, jump into	0	0
+#2021	コメント	こめんと	comment	0	0
+#2022	書き直す	かきなおす	rewrite	0	0
+#2023	看護婦	かんごふ	female nurse	0	0
+#2024	就職	しゅうしょく	finding a job, getting a job	0	0
+#2025	糸	いと	thread, yarn	0	0
+#2026	売り場	うりば	sales floor, department	0	0
+#2027	校長	こうちょう	principal, schoolmaster	0	0
+#2028	見学	けんがく	field trip	0	0
+#2029	進学	しんがく	advance to higher education	0	0
+#2030	退院	たいいん	discharge from hospital	0	0
+#2031	テント	てんと	tent	0	0
+#2032	踊り	おどり	dance, dancing	0	0
+#2033	植える	うえる	plant, sow	0	0
+#2034	幼稚園	ようちえん	kindergarten	0	0
+#2035	エアメール	えあめーる	airmail	0	0
+#2036	四季	しき	the four seasons	0	0
+#2037	ナイロン	ないろん	nylon	0	0
+#2038	消防車	しょうぼうしゃ	fire engine	0	0
+#2039	ハンドバッグ	はんどばっぐ	handbag	0	0
+#2040	農業	のうぎょう	agriculture	0	0
+#2041	アイロン	あいろん	iron (for clothes)	0	0
+#2042	ラッシュアワー	らっしゅあわー	rush hour	0	0
+#2043	速達	そくたつ	special delivery, express delivery	0	0
+#2044	予習	よしゅう	preparation, previewing (a lesson)	0	0
+#2045	書留	かきとめ	registered mail	0	0
+#2046	深さ	ふかさ	depth, profundity	0	0
+#2047	ウィスキー	うぃすきー	whisky	0	0
+#2048	シャープペンシル	しゃーぷぺんしる	mechanical pencil	0	0
+#2049	取引	とりひき	transaction, deal	0	0
+#2050	設ける	もうける	set up, establish	0	0
+#2051	一定	いってい	fixed, certain	0	0
+#2052	記者	きしゃ	journalist, reporter	0	0
+#2053	基準	きじゅん	standard, criterion	0	0
+#2054	傾向	けいこう	tendency, disposition	0	0
+#2055	契約	けいやく	contract, agreement	0	0
+#2056	産業	さんぎょう	industry	0	0
+#2057	事情	じじょう	circumstances, conditions	0	0
+#2058	実行	じっこう	practice, execution	0	0
+#2059	組織	そしき	organization, structure	0	0
+#2060	逮捕	たいほ	arrest, capture	0	0
+#2061	程度	ていど	degree, extent	0	0
+#2062	同様	どうよう	similar, the same as	0	0
+#2063	要求	ようきゅう	need, demand	0	0
+#2064	貿易	ぼうえき	(export and import) trade	0	0
+#2065	輸出	ゆしゅつ	export	0	0
+#2066	商業	しょうぎょう	commerce, trade	0	0
+#2067	船便	ふなびん	surface mail, shipping service	0	0
+#2068	選挙	せんきょ	election	0	0
+#2069	住民	じゅうみん	resident	0	0
+#2070	出席	しゅっせき	attendance, presence	0	0
+#2071	発言	はつげん	utterance, remark	0	0
+#2072	伴う	ともなう	accompany, entail	0	0
+#2073	採用	さいよう	employment, adoption	0	0
+#2074	処理	しょり	handling, processing	0	0
+#2075	解決	かいけつ	solution, settlement	0	0
+#2076	全国	ぜんこく	the whole country	0	0
+#2077	作業	さぎょう	work, operation	0	0
+#2078	生産	せいさん	production	0	0
+#2079	管理	かんり	management, administration	0	0
+#2080	増加	ぞうか	increase, rise	0	0
+#2081	特徴	とくちょう	distinctive feature, characteristic	0	0
+#2082	強調	きょうちょう	emphasis, stress	0	0
+#2083	制度	せいど	system	0	0
+#2084	株	かぶ	stock, share	0	0
+#2085	加える	くわえる	add (things of the same or different kinds)	0	0
+#2086	強化	きょうか	strengthening	0	0
+#2087	設計	せっけい	design, plan	0	0
+#2088	段階	だんかい	stage, phase	0	0
+#2089	行う	おこなう	do, carry out	0	0
+#2090	経済	けいざい	economy, economics	0	0
+#2091	工場	こうじょう	factory, plant	0	0
+#2092	技術	ぎじゅつ	skill, technology	0	0
+#2093	施設	しせつ	facilities, institution	0	0
+#2094	神	かみ	God	0	0
+#2095	人口	じんこう	population	0	0
+#2096	党	とう	party, faction	0	0
+#2097	輸入	ゆにゅう	import	0	0
+#2098	煮る	にる	simmer, cook	0	0
+#2099	コンサート	こんさーと	concert	0	0
+#2100	ガソリン	がそりん	gasoline	0	0
+#2101	パンツ	ぱんつ	pants, trousers	0	0
+#2102	そっくり	そっくり	almost identical	0	0
+#2103	名刺	めいし	business card, name card	0	0
+#2104	いちいち	いちいち	every time, about everything	0	0
+#2105	しつこい	しつこい	persistent, pesky	0	0
+#2106	喉	のど	throat	0	0
+#2107	身長	しんちょう	height	0	0
+#2108	何で	なんで	why, what for	0	0
+#2109	味噌	みそ	soybean paste	0	0
+#2110	気の毒	きのどく	pitiful, poor	0	0
+#2111	そっと	そっと	softly, gently	0	0
+#2112	こっそり	こっそり	secretly	0	0
+#2113	うっかり	うっかり	carelessly, accidentally	0	0
+#2114	わざと	わざと	on purpose	0	0
+#2115	がっかり	がっかり	disappointed, disappointing	0	0
+#2116	ぼんやり	ぼんやり	vacantly, absent-mindedly	0	0
+#2117	酢	す	vinegar	0	0
+#2118	羨ましい	うらやましい	envious, jealous	0	0
+#2119	捕まえる	つかまえる	catch, arrest	0	0
+#2120	ちっとも	ちっとも	not at all	0	0
+#2121	親指	おやゆび	thumb	0	0
+#2122	通り過ぎる	とうりすぎる	go past, pass	0	0
+#2123	屋上	おくじょう	housetop, rooftop	0	0
+#2124	蓋	ふた	lid, cover	0	0
+#2125	いつの間にか	いつのまにか	before noticing it, out of nowhere	0	0
+#2126	象	ぞう	elephant	0	0
+#2127	嫌がる	いやがる	dislike, be unwilling	0	0
+#2128	わがまま	わがまま	selfish	0	0
+#2129	徹夜	てつや	staying up all night	0	0
+#2130	まあまあ	まあまあ	now now, well well	0	0
+#2131	ふざける	ふざける	mess around, fool around	0	0
+#2132	一度に	いちどに	all at once, at a time	0	0
+#2133	頷く	がんく	nod	0	0
+#2134	改札	かいさつ	ticket gate	0	0
+#2135	手伝い	てつだい	help, assistance	0	0
+#2136	とっくに	とっくに	long ago, already	0	0
+#2137	洗剤	せんざい	detergent	0	0
+#2138	手首	てくび	wrist	0	0
+#2139	日帰り	ひがえり	a day trip	0	0
+#2140	取り消す	とりけす	cancel	0	0
+#2141	あきれる	あきれる	be amazed at, be stunned by (something negative)	0	0
+#2142	月末	げつまつ	end of the month	0	0
+#2143	咳	せき	cough	0	0
+#2144	あいにく	あいにく	unfortunately, we are afraid that	0	0
+#2145	近寄る	ちかよる	go near, approach	0	0
+#2146	うろうろ	うろうろ	in a loafing-about manner, not really knowing what to do	0	0
+#2147	重たい	おもたい	heavy, serious	0	0
+#2148	かじる	かじる	nibble, bite	0	0
+#2149	長引く	ながびく	be prolonged, drag on	0	0
+#2150	せっせと	せっせと	diligently, hard	0	0
+#2151	横切る	よこぎる	cut across	0	0
+#2152	取り替える	とりかえる	change, replace	0	0
+#2153	からかう	からかう	make fun of, tease	0	0
+#2154	好き嫌い	すききらい	likes and dislikes, taste	0	0
+#2155	蒸し暑い	むしあつい	hot and humid	0	0
+#2156	支度	したく	preparation, getting ready	0	0
+#2157	薄暗い	うすぐらい	gloomy, dim	0	0
+#2158	着替え	きがえ	change of clothes	0	0
+#2159	ワンピース	わんぴーす	one-piece dress	0	0
+#2160	生年月日	せいねんがっぴ	year and date of birth	0	0
+#2161	虫歯	むしば	cavity	0	0
+#2162	留守番	るすばん	looking after the house	0	0
+#2163	張り切る	はりきる	go all out, be full of energy (to do something)	0	0
+#2164	意地悪	いじわる	mean, ill-natured	0	0
+#2165	生意気	なまいき	impudent, cocky	0	0
+#2166	シーツ	しーつ	bed sheet	0	0
+#2167	フライパン	ふらいぱん	frying pan	0	0
+#2168	一人一人	ひとりひとり	each and every person	0	0
+#2169	話し掛ける	はなしかける	start a conversation, speak to (someone)	0	0
+#2170	追い掛ける	おいかける	chase, run after	0	0
+#2171	小指	こゆび	little finger, little toe	0	0
+#2172	ぴかぴか	ぴかぴか	shiny, glittering	0	0
+#2173	中指	なかゆび	middle finger, middle toe	0	0
+#2174	まぶた	まぶた	eyelid	0	0
+#2175	面倒臭い	めんどうくさい	troublesome, tiresome	0	0
+#2176	ゆでる	ゆでる	boil	0	0
+#2177	できるだけ	できるだけ	as (much) as possible	0	0
+#2178	もしかしたら	もしかしたら	possibly, perhaps	0	0
+#2179	いつまでも	いつまでも	forever	0	0
+#2180	まぶしい	まぶしい	dazzling, glaring	0	0
+#2181	おやつ	おやつ	snack, refreshment	0	0
+#2182	空っぽ	からっぽ	empty	0	0
+#2183	ぶつぶつ	ぶつぶつ	in a mutter, mumble	0	0
+#2184	すっと	すっと	(feel) refreshed, satisfied	0	0
+#2185	図々しい	ずーずーしい	impudent, cheeky	0	0
+#2186	にっこり	にっこり	smiling brightly	0	0
+#2187	けち	けち	stingy, miser	0	0
+#2188	追い付く	おいつく	catch up with	0	0
+#2189	くしゃみ	くしゃみ	sneeze	0	0
+#2190	冷ます	さます	let cool	0	0
+#2191	だらしない	だらしない	untidy, sloppy	0	0
+#2192	甘やかす	あまやかす	be indulgent to, spoil	0	0
+#2193	いらいら	いらいら	irritated	0	0
+#2194	薬指	くすりゆび	ring finger	0	0
+#2195	のろのろ	のろのろ	slowly, sluggishly	0	0
+#2196	ポイント	ぽいんと	point	0	0
+#2197	工業	こうぎょう	industry, the manufacturing industry	0	0
+#2198	構造	こうぞう	construction, structure	0	0
+#2199	さすが	さすが	just as expected, true to reputation	0	0
+#2200	居眠り	いねむり	doze, catnap	0	0
+#2201	散らかす	ちらかす	make a mess	0	0
+#2202	濡らす	ぬらす	get (something) wet	0	0
+#2203	日にち	にちにち	date (fixed for something)	0	0
+#2204	苛める	いじめる	bully, abuse	0	0
+#2205	足下	あしもと	step, under foot	0	0
+#2206	うさぎ	うさぎ	rabbit, hare	0	0
+#2207	紺	こん	dark blue, navy blue	0	0
+#2208	目茶苦茶	めちゃくちゃ	in a mess, chaotic	0	0
+#2209	立ち入り禁止	たちいりきんし	no trespassing	0	0
+#2210	間もなく	かんもなく	soon, in a short time	0	0
+#2211	通帳	つうちょう	bankbook, passbook	0	0
+#2212	しびれる	しびれる	go numb, fall asleep	0	0
+#2213	ぎっしり	ぎっしり	tightly, closely	0	0
+#2214	うがい	うがい	gargling	0	0
+#2215	思い付く	おもいつく	think of, hit upon	0	0
+#2216	宛名	あてな	name of recipient, addressee	0	0
+#2217	戸棚	とだな	cupboard	0	0
+#2218	焦げる	こげる	be burned, be scorched	0	0
+#2219	かく	かく	scratch	0	0
+#2220	威張る	いばる	be arrogant, be boastful	0	0
+#2221	人混み	ひとごみ	crowd	0	0
+#2222	ずらり	ずらり	lining up neatly	0	0
+#2223	思い切り	おもいきり	to one’s heart’s content, with all one’s might	0	0
+#2224	青白い	あおじろい	pale	0	0
+#2225	しゃがむ	しゃがむ	squat down	0	0
+#2226	言葉遣い	ことばづかい	wording, language	0	0
+#2227	通り掛かる	とうりかかる	happen to pass by	0	0
+#2228	御無沙汰	ごぶさた	be out of touch	0	0
+#2229	市場	しじょう	market (industrial, financial, etc.)	0	0
+#2230	データ	でーた	data	0	0
+#2231	購入	こうにゅう	purchase	0	0
+#2232	ビジネス	びじねす	business	0	0
+#2233	俺	おれ	I (masculine sense)	0	0
+#2234	登録	とうろく	registration	0	0
+#2235	体験	たいけん	personal experience	0	0
+#2236	デザイン	でざいん	design	0	0
+#2237	負担	ふたん	burden, charge	0	0
+#2238	詳細	しょうさい	details, particulars	0	0
+#2239	アップ	あっぷ	close-up	0	0
+#2240	終了	しゅうりょう	end, termination	0	0
+#2241	ファン	ふぁん	fan, admirer	0	0
+#2242	予想	よそう	expectation, forecast	0	0
+#2243	企画	きかく	planning, project	0	0
+#2244	財政	ざいせい	public finance, financial affairs	0	0
+#2245	総合	そうごう	integration, put together	0	0
+#2246	ケース	けーす	case	0	0
+#2247	メーカー	めーかー	maker, manufacturer	0	0
+#2248	治療	ちりょう	medical treatment	0	0
+#2249	読者	どくしゃ	reader	0	0
+#2250	職員	しょくいん	staff, employee	0	0
+#2251	世代	せだい	generation	0	0
+#2252	視点	してん	viewpoint, perspective	0	0
+#2253	効率	こうりつ	efficiency, performance	0	0
+#2254	資産	しさん	property, assets	0	0
+#2255	取り組む	とりくむ	work on, tackle	0	0
+#2256	ルール	るーる	rule	0	0
+#2257	資格	しかく	qualifications, competence	0	0
+#2258	成果	せいか	result	0	0
+#2259	前提	ぜんてい	assumption, premise	0	0
+#2260	現地	げんち	local, on-site	0	0
+#2261	内部	ないぶ	interior, inner parts	0	0
+#2262	所得	しょとく	income, earnings	0	0
+#2263	恋愛	れんあい	romance, relationship	0	0
+#2264	支持	しじ	support	0	0
+#2265	危機	きき	crisis, danger	0	0
+#2266	マスコミ	ますこみ	mass media, media	0	0
+#2267	証拠	しょうこ	proof, evidence	0	0
+#2268	コーナー	こーなー	section (of a store etc.), corner	0	0
+#2269	マーク	まーく	logo	0	0
+#2270	減少	げんしょう	decrease, decline	0	0
+#2271	緊急	きんきゅう	urgent, emergency	0	0
+#2272	要望	ようぼう	demand, request	0	0
+#2273	ストレス	すとれす	stress	0	0
+#2274	主催	しゅさい	sponsorship, host	0	0
+#2275	ベスト	べすと	best	0	0
+#2276	犠牲	ぎせい	sacrifice, loss	0	0
+#2277	暴力	ぼうりょく	violence, force	0	0
+#2278	赤字	あかじ	deficit, in the red	0	0
+#2279	個性	こせい	individuality, unique characteristics	0	0
+#2280	作戦	さくせん	tactic, strategy	0	0
+#2281	ショック	しょっく	shock	0	0
+#2282	アンケート	あんけーと	questionnaire	0	0
+#2283	わざわざ	わざわざ	going out of one’s way to do something	0	0
+#2284	本気	ほんき	serious, earnest	0	0
+#2285	悩み	なやみ	troubles, worries	0	0
+#2286	上司	じょうし	boss	0	0
+#2287	説得	せっとく	persuasion	0	0
+#2288	ブーム	ぶーむ	fad, boom	0	0
+#2289	体力	たいりょく	physical strength, stamina	0	0
+#2290	正常	せいじょう	normal	0	0
+#2291	ヒント	ひんと	hint, clue	0	0
+#2292	地獄	じごく	hell	0	0
+#2293	後悔	こうかい	regret	0	0
+#2294	情熱	じょうねつ	passion, enthusiasm	0	0
+#2295	驚き	おどろき	surprise, amazement	0	0
+#2296	ジャンプ	じゃんぷ	jump	0	0
+#2297	アルコール	あるこーる	alcohol, alcoholic beverage	0	0
+#2298	いい加減	いいかげん	irresponsible, careless	0	0
+#2299	わくわく	わくわく	feel excited, be thrilled	0	0
+#2300	言い訳	いいわけ	excuse	0	0
+#2301	ミュージック	みゅーじっく	music	0	0
+#2302	青春	せいしゅん	blossom of youth, adolescence	0	0
+#2303	あっさり	あっさり	bluntly, easily	0	0
+#2304	焦る	あせる	feel pressured, feel hurried	0	0
+#2305	柔軟	じゅうなん	pliable, flexible	0	0
+#2306	タレント	たれんと	celebrity, TV personality	0	0
+#2307	どうにか	どうにか	somehow	0	0
+#2308	コンテスト	こんてすと	contest, competition	0	0
+#2309	もてる	もてる	be popular (esp. with the opposite sex)	0	0
+#2310	デザート	でざーと	dessert	0	0
+#2311	クイズ	くいず	quiz, quiz show	0	0
+#2312	中毒	ちゅうどく	poisoning, addiction	0	0
+#2313	ムード	むーど	mood	0	0
+#2314	同情	どうじょう	sympathy, compassion	0	0
+#2315	学歴	がくれき	educational background	0	0
+#2316	好調	こうちょう	good condition	0	0
+#2317	アマチュア	あまちゅあ	amateur	0	0
+#2318	炒める	いためる	stir-fry	0	0
+#2319	カメラマン	かめらまん	photographer	0	0
+#2320	問い合わせる	といあわせる	inquire, ask for (information)	0	0
+#2321	しょっちゅう	しょっちゅう	frequently, repeatedly	0	0
+#2322	ロープ	ろーぷ	rope	0	0
+#2323	ストライキ	すとらいき	strike	0	0
+#2324	パンク	ぱんく	flat tire	0	0
+#2325	コマーシャル	こまーしゃる	commercial, advertising	0	0
+#2326	チェンジ	ちぇんじ	change, exchange	0	0
+#2327	待ち合わせ	まちあわせ	meeting with someone, appointment	0	0
+#2328	時差	じさ	time difference	0	0
+#2329	義理	ぎり	sense of duty, obligation	0	0
+#2330	さっと	さっと	quickly	0	0
+#2331	左利き	ひだりきき	left-handedness	0	0
+#2332	サボる	さぼる	slack of, ditch	0	0
+#2333	だるい	だるい	feel run-down, weary	0	0
+#2334	ポット	ぽっと	pot, thermos	0	0
+#2335	レントゲン	れんとげん	X-rays	0	0
+#2336	心強い	こころづよい	reassuring, heartening	0	0
+#2337	無駄遣い	むだづかい	wasteful spending	0	0
+#2338	バッジ	ばっじ	badge	0	0
+#2339	眼科	がんか	ophthalmology, eye clinic	0	0
+#2340	履歴書	りれきしょ	resume, curriculum vitae	0	0
+#2341	インフレーション	いんふれーしょん	inflation	0	0
+#2342	癌	がん	cancer	0	0
+#2343	ぺこぺこ	ぺこぺこ	bow, kowtow	0	0
+#2344	嘘つき	うそつき	liar	0	0
+#2345	おごる	おごる	treat, pay for (someone)	0	0
+#2346	十字路	じゅうじろ	crossroads	0	0
+#2347	びっしょり	びっしょり	drenched, soaked	0	0
+#2348	だぶだぶ	だぶだぶ	baggy, too big	0	0
+#2349	おだてる	おだてる	flatter	0	0
+#2350	かかと	かかと	heel	0	0
+#2351	ほっと	ほっと	feel relieved	0	0
+#2352	傷付ける	きずつける	hurt (someone), damage (something)	0	0
+#2353	うつむく	うつむく	look down, lower one’s eyes	0	0
+#2354	前売り券	まえうりけん	advance ticket	0	0
+#2355	短期	たんき	short-term	0	0
+#2356	舐める	なめる	lick	0	0
+#2357	本日	ほんじつ	today (formal)	0	0
+#2358	業界	ぎょうかい	industry, business world	0	0
+#2359	ネットワーク	ねっとわーく	network	0	0
+#2360	弁護士	べんごし	lawyer, attorney	0	0
+#2361	入力	にゅうりょく	input, entry	0	0
+#2362	前回	ぜんかい	last time	0	0
+#2363	画面	がめん	screen	0	0
+#2364	後半	こうはん	latter half, second half	0	0
+#2365	自信	じしん	confidence	0	0
+#2366	素敵	すてき	lovely, nice	0	0
+#2367	当たり前	あたりまえ	no wonder, natural	0	0
+#2368	やり方	やりほう	way of doing	0	0
+#2369	わずか	わずか	meager, marginal	0	0
+#2370	ついに	ついに	at last, at length	0	0
+#2371	次回	じかい	next time	0	0
+#2372	スピード	すぴーど	speed	0	0
+#2373	バイト	ばいと	part-time job	0	0
+#2374	不可能	ふかのう	impossible	0	0
+#2375	アドバイス	あどばいす	advice	0	0
+#2376	落ち着く	おちつく	calm down, settle in	0	0
+#2377	せっかく	せっかく	with much trouble	0	0
+#2378	つい	つい	inadvertently, carelessly	0	0
+#2379	大手	おおて	major company	0	0
+#2380	部長	ぶちょう	department head	0	0
+#2381	前半	ぜんはん	first half	0	0
+#2382	たまたま	たまたま	by chance, accidentally	0	0
+#2383	相変わらず	あいかわらず	as usual, as before	0	0
+#2384	支払い	しはらい	payment	0	0
+#2385	人数	にんずう	number of people	0	0
+#2386	課長	かちょう	section chief	0	0
+#2387	ファッション	ふぁっしょん	fashion	0	0
+#2388	体調	たいちょう	health condition	0	0
+#2389	付き合う	つきあう	socialize with, see (someone)	0	0
+#2390	ショッピング	しょっぴんぐ	shopping	0	0
+#2391	あり	あり	ant	0	0
+#2392	最悪	さいあく	worst	0	0
+#2393	かえる	かえる	frog	0	0
+#2394	おじさん	おじさん	Mister, middle-aged man	0	0
+#2395	得	え	advantage, gain	0	0
+#2396	掴む	つかむ	grip, grab	0	0
+#2397	知り合い	しりあい	acquaintance	0	0
+#2398	ペース	ぺーす	pace	0	0
+#2399	作成	さくせい	to produce, to make	0	0
+#2400	親子	おやこ	parent and child	0	0
+#2401	話し合い	はなしあい	talk, discussion	0	0
+#2402	本社	ほんしゃ	head office of a company	0	0
+#2403	打ち合わせ	うちあわせ	meeting, arrangement	0	0
+#2404	見守る	みまもる	watch, keep watch over	0	0
+#2405	売り上げ	うりあげ	sales, proceeds	0	0
+#2406	かえって	かえって	rather, instead	0	0
+#2407	アイドル	あいどる	idol	0	0
+#2408	何となく	なんとなく	for some reason	0	0
+#2409	年末	ねんまつ	end of year	0	0
+#2410	無意識	むいしき	unconsciously, unintentionally	0	0
+#2411	駅前	えきまえ	in front of the station	0	0
+#2412	やって来る	やってくる	come all the way	0	0
+#2413	キッチン	きっちん	kitchen	0	0
+#2414	キス	きす	kiss	0	0
+#2415	慌てる	あわてる	be flustered, be in a hurry	0	0
+#2416	都内	とない	in the metropolitan area of Tokyo	0	0
+#2417	残業	ざんぎょう	overtime work	0	0
+#2418	曖昧	あいまい	ambiguous, vague	0	0
+#2419	カタログ	かたろぐ	catalogue	0	0
+#2420	殴る	なぐる	hit, punch	0	0
+#2421	両手	りょうて	both hands	0	0
+#2422	仲良く	なかよく	harmoniously, getting along	0	0
+#2423	始め	はじめ	beginning, initial part	0	0
+#2424	知り合う	しりあう	get acquainted with, get to know (someone)	0	0
+#2425	お手伝い	おてつだい	help, assistance (polite)	0	0
+#2426	マナー	まなー	manners	0	0
+#2427	カラオケ	からおけ	karaoke	0	0
+#2428	二度と	にどと	never again	0	0
+#2429	片手	かたて	one hand	0	0
+#2430	おばさん	おばさん	middle-aged woman	0	0
+#2431	保育園	ほいくえん	day-care center, nursery school	0	0
+#2432	ずれる	ずれる	go off track, go out of line	0	0
+#2433	ビーチ	びーち	beach	0	0
+#2434	せいぜい	せいぜい	at most, at best	0	0
+#2435	後期	こうき	latter term, second half	0	0
+#2436	エアコン	えあこん	air-conditioning, air conditioner	0	0
+#2437	ゆったり	ゆったり	comfortable, easy fit	0	0
+#2438	ハードウェア	はーどうぇあ	hardware	0	0
+#2439	リクエスト	りくえすと	request	0	0
+#2440	翌年	よくねん	the following year	0	0
+#2441	キャンセル	きゃんせる	cancellation	0	0
+#2442	車内	しゃない	inside a vehicle or a train	0	0
+#2443	大声	おおごえ	loud voice	0	0
+#2444	無責任	むせきにん	irresponsible	0	0
+#2445	片方	かたほう	one side, the other one	0	0
+#2446	ボリューム	ぼりゅーむ	volume	0	0
+#2447	前方	ぜんぽう	front, ahead	0	0
+#2448	日本酒	にほんしゅ	Japanese rice wine	0	0
+#2449	青空	あおぞら	blue sky	0	0
+#2450	不自然	ふしぜん	unnatural, artificial	0	0
+#2451	昨晩	さくばん	last night, last evening (formal)	0	0
+#2452	市役所	しやくしょ	municipal office, city hall	0	0
+#2453	フルーツ	ふるーつ	fruit	0	0
+#2454	年々	ねんねん	year by year	0	0
+#2455	後方	こうほう	back, rear	0	0
+#2456	お詫び	おわび	apologize, apology	0	0
+#2457	大根	だいこん	oriental radish	0	0
+#2458	むく	むく	peel (something)	0	0
+#2459	例年	れいねん	typical year, average year	0	0
+#2460	締め切り	しめきり	deadline	0	0
+#2461	正に	まさに	just, surely	0	0
+#2462	蛇	へび	snake	0	0
+#2463	ラッシュ	らっしゅ	rush, rush hour	0	0
+#2464	大げさ	おおげさ	exaggerated	0	0
+#2465	無理やり	むりやり	forcibly, against one’s will	0	0
+#2466	外食	がいしょく	eating out, dining out	0	0
+#2467	キャベツ	きゃべつ	cabbage	0	0
+#2468	手足	てあし	hands and feet, limbs	0	0
+#2469	閉店	へいてん	shop closing	0	0
+#2470	百貨店	ひゃっかてん	department store	0	0
+#2471	クッキー	くっきー	cookie	0	0
+#2472	車椅子	くるまいす	wheelchair	0	0
+#2473	大雨	おおあめ	heavy rain	0	0
+#2474	鳩	はと	pigeon, dove	0	0
+#2475	中級	ちゅうきゅう	middle-class, intermediate	0	0
+#2476	おにぎり	おにぎり	rice ball	0	0
+#2477	ひょっとしたら	ひょっとしたら	perhaps	0	0
+#2478	ぐるぐる	ぐるぐる	round and round	0	0
+#2479	和食	わしょく	Japanese-style food	0	0
+#2480	どく	どく	get out of the way, step aside	0	0
+#2481	ウエスト	うえすと	waist	0	0
+#2482	忘年会	ぼうねんかい	year-end party	0	0
+#2483	包丁	ほうちょう	kitchen knife	0	0
+#2484	ゴールデンウィーク	ごーるでんうぃーく	golden week	0	0
+#2485	シューズ	しゅーず	shoes	0	0
+#2486	未成年	みせいねん	minor, underage	0	0
+#2487	甥	おい	nephew	0	0
+#2488	葉っぱ	はっぱ	leaf	0	0
+#2489	やり直す	やりなおす	do over again	0	0
+#2490	大晦日	おおみそか	new year’s eve	0	0
+#2491	サングラス	さんぐらす	sunglasses	0	0
+#2492	病人	びょうにん	sick person	0	0
+#2493	顔色	かおいろ	complexion, facial expression	0	0
+#2494	金色	きんいろ	golden color	0	0
+#2495	にらむ	にらむ	glare, stare	0	0
+#2496	つかまる	つかまる	hold on to (something)	0	0
+#2497	足首	あしくび	ankle	0	0
+#2498	散らかる	ちらかる	be in a mess, lie scattered	0	0
+#2499	上がる	あがる	get nervous	0	0
+#2500	かぼちゃ	かぼちゃ	pumpkin	0	0
+#2501	水族館	すいぞくかん	aquarium	0	0
+#2502	品切れ	しなぎれ	sold out	0	0
+#2503	腫れる	はれる	swell up, be swollen	0	0
+#2504	やり直し	やりなおし	doing over, redoing	0	0
+#2505	バーゲン	ばーげん	bargain sale	0	0
+#2506	男らしい	おとこらしい	manly, masculine	0	0
+#2507	近道	ちかみち	shortcut	0	0
+#2508	トースト	とーすと	toast	0	0
+#2509	好奇心	こうきしん	curiosity	0	0
+#2510	実用的	じつようてき	practical	0	0
+#2511	客観的	きゃっかんてき	objective	0	0
+#2512	抽象的	ちゅうしょうてき	abstract	0	0
+#2513	送別会	そうべつかい	farewell party	0	0
+#2514	敷金	しききん	deposit, security deposit	0	0
+#2515	日米	にちべい	Japan and the US	0	0
+#2516	専門家	せんもんか	specialist, expert	0	0
+#2517	ホット	ほっと	hot	0	0
+#2518	わさび	わさび	Japanese horseradish	0	0
+#2519	初詣	はつもうで	first shrine visit of the new year	0	0
+#2520	ジョギング	じょぎんぐ	jogging	0	0
+#2521	社会人	しゃかいじん	working member of society	0	0
+#2522	大急ぎ	おおいそぎ	in a great hurry	0	0
+#2523	セルフサービス	せるふさーびす	self-service	0	0
+#2524	くしゃくしゃ	くしゃくしゃ	messy, crumpled	0	0
+#2525	食パン	しょくぱん	bread in a rectangular shape	0	0
+#2526	人差し指	ひとさししゆび	index finger, forefinger	0	0
+#2527	洋食	ようしょく	Western food	0	0
+#2528	じめじめ	じめじめ	damp	0	0
+#2529	じろじろ	じろじろ	staringly	0	0
+#2530	つるつる	つるつる	smooth, slippery	0	0
+#2531	こしょう	こしょう	pepper	0	0
+#2532	びしょびしょ	びしょびしょ	soaking wet, soaked	0	0
+#2533	ぎゅうぎゅう	ぎゅうぎゅう	packed, crammed	0	0
+#2534	バツ	ばつ	cross, x-mark (on errors, mistakes etc.)	0	0
+#2535	水色	みずいろ	light blue	0	0
+#2536	領収書	りょうしゅうしょ	bill of receipt (for payment only)	0	0
+#2537	自然に	しぜんに	naturally	0	0
+#2538	とんかつ	とんかつ	pork cutlet	0	0
+#2539	ねぎ	ねぎ	spring onion, green onion	0	0
+#2540	きゅうり	きゅうり	cucumber	0	0
+#2541	鰻	うなぎ	eel	0	0
+#2542	まぐろ	まぐろ	tuna	0	0
+#2543	パイナップル	ぱいなっぷる	pineapple	0	0
+#2544	ほうれん草	ほうれんくさ	spinach	0	0
+#2545	マヨネーズ	まよねーず	mayonnaise	0	0
+#2546	玉ねぎ	たまねぎ	onion	0	0
+#2547	焼き肉	やきにく	grilled meat, barbecued meat	0	0
+#2548	目薬	めぐすり	eye drops	0	0
+#2549	寝過ごす	ねすごす	oversleep	0	0
+#2550	国際的	こくさいてき	international	0	0
+#2551	国際化	こくさいか	internationalization	0	0
+#2552	区役所	くやくしょ	ward office	0	0
+#2553	和室	わしつ	Japanese-style room	0	0
+#2554	本格的	ほんかくてき	authentic, serious	0	0
+#2555	高速道路	こうそくどうろ	freeway, expressway	0	0
+#2556	とりあえず	とりあえず	for now, for the time being	0	0
+#2557	先に	さきに	before, ahead	0	0
+#2558	ぎりぎり	ぎりぎり	just in time, barely	0	0
+#2559	慌ただしい	あわただしい	busy and hurried	0	0
+#2560	今ごろ	いまごろ	by now, at this time	0	0
+#2561	くっ付く	くっつく	stick, be attached	0	0
+#2562	北風	きたかぜ	north wind	0	0
+#2563	海老	えび	shrimp	0	0
+#2564	思い切って	おもいきって	daringly, taking the plunge	0	0
+#2565	はっと	はっと	taken aback, startled	0	0
+#2566	宛先	あてさき	recipient’s address	0	0
+#2567	ばらばら	ばらばら	separately, discretely	0	0
+#2568	乗車券	じょうしゃけん	train ticket, bus ticket	0	0
+#2569	ぶるぶる	ぶるぶる	shivering, trembling	0	0
+#2570	すらすら	すらすら	smoothly, easily	0	0
+#2571	終電	しゅうでん	last train	0	0
+#2572	ずるい	ずるい	cunning, sneaky	0	0
+#2573	すやすや	すやすや	(sleep) peacefully, soundly	0	0
+#2574	がたがた	がたがた	with a rattling noise, unstable	0	0
+#2575	非常口	ひじょうぐち	emergency exit	0	0
+#2576	ざらざら	ざらざら	rough, gritty	0	0
+#2577	ぬるぬる	ぬるぬる	slimy	0	0
+#2578	女らしい	おんならしい	womanly, feminine	0	0
+#2579	急用	きゅうよう	urgent business	0	0
+#2580	きょろきょろ	きょろきょろ	look around	0	0
+#2581	ぐずぐず	ぐずぐず	slowly, tardily	0	0
+#2582	ぽかぽか	ぽかぽか	pleasantly warm	0	0
+#2583	洗い物	あらいもの	dishes to be washed	0	0
+#2584	かっと	かっと	in a temper, in a rage	0	0
+#2585	どきっと	どきっと	surprised, shocked	0	0
+#2586	乗り遅れる	のりおくれる	miss (a train, bus, etc.)	0	0
+#2587	くたくた	くたくた	exhausted	0	0
+#2588	すべすべ	すべすべ	smooth, silky	0	0
+#2589	にやにや	にやにや	grin to oneself	0	0
+#2590	あだ名	あだめい	nickname	0	0
+#2591	後片付け	あとかたづけけ	cleaning up	0	0
+#2592	イカ	いか	squid	0	0
+#2593	うきうき	うきうき	excitedly	0	0
+#2594	可愛がる	かわいがる	love, cherish	0	0
+#2595	餃子	ぎょうざ	Chinese dumpling	0	0
+#2596	げらげら	げらげら	(laugh) out loud	0	0
+#2597	ごめん	ごめん	sorry	0	0
+#2598	明々後日	しあさって	three days from today	0	0
+#2599	削減	さくげん	cutdown, reduction	0	0
+#2600	贅沢	ぜいたく	luxury, extravagance	0	0
+#2601	そのうち	そのうち	before long, sooner or later	0	0
+#2602	でこぼこ	でこぼこ	unevenness, bumpiness	0	0
+#2603	手のひら	てのひら	palm	0	0
+#2604	裸足	はだし	bare feet	0	0
+#2605	べたべた	べたべた	stick together, sticky	0	0
+#2606	眉毛	まゆげ	eyebrows	0	0
+#2607	割り箸	わりばし	disposable chopsticks	0	0
+#2608	日付け	ひづけ	date (written in a document, etc.)	0	0
+#2609	ぴたりと	ぴたりと	suddenly, coming to a dead stop	0	0
+#2610	まな板	まないた	chopping board	0	0
+#2611	筆記用具	ひっきようぐ	pens and pencils, writing materials	0	0
+#2612	くすぐる	くすぐる	tickle	0	0
+#2613	かんかん	かんかん	furiously angry, in a rage	0	0
+#2614	白線	はくせん	white (warning) line	0	0
+#2615	見覚え	みおぼえ	recognition, remembrance	0	0
+#2616	これまで	これまで	until now, until here	0	0
+#2617	からす	からす	crow, raven	0	0
+#2618	噛み付く	かみつく	bite	0	0
+#2619	白菜	はくさい	Chinese cabbage	0	0
+#2620	プロ野球	ぷろやきゅう	professional baseball	0	0
+#2621	かみそり	かみそり	razor	0	0
+#2622	何十	なんじゅう	several tens	0	0
+#2623	何百	なんびゃく	several hundred, hundreds	0	0
+#2624	何千	なんぜん	several thousand, thousands	0	0
+#2625	がくんと	がくんと	sharply, significantly	0	0
+#2626	飛び下りる	とびおりる	jump off, jump down	0	0
+#2627	通行止め	つうこうどめめ	road closed	0	0
+#2628	行き止まり	いきどまり	dead end	0	0
+#2629	真ん丸	まことんまる	perfect circle, perfectly round	0	0
+#2630	いつの間に	いつのまに	without anyone noticing	0	0
+#2631	くっ付ける	くっつける	attach (something), stick (something)	0	0
+#2632	付け足す	つけたす	add on, append	0	0
+#2633	得する	えする	profitable, beneficial	0	0
+#2634	損する	そんする	lose, suffer loss	0	0
+#2635	言い返す	いいかえす	talk back	0	0
+#2636	体温計	たいおんけい	(clinical) thermometer	0	0
+#2637	後戻り	あともどり	turning back, retreat	0	0
+#2638	話し声	はなしごえ	talking voice	0	0
+#2639	くるくる	くるくる	round and round, spin	0	0
+#2640	怖がる	こわがる	be afraid of, fear	0	0
+#2641	人違い	ひとちがい	mistaken identity	0	0
+#2642	取り返す	とりかえす	take back, regain	0	0
+#2643	乗り降り	のりおり	getting on and off	0	0
+#2644	口喧嘩	くちげんか	quarrel	0	0
+#2645	起き上がる	おきあがる	get up, rise	0	0
+#2646	ぶら下がる	ぶらさがる	hang down, dangle	0	0
+#2647	飛び上がる	とびあがる	fly up, fump up	0	0
+#2648	泣き声	なきこえ	tearful voice, sound of crying	0	0
+#2649	持ち物	もちもの	one’s belongings	0	0
+#2650	細長い	ほそながい	long and thin, long and narrow	0	0
+#2651	出入り口	でいりくち	doorway, gateway	0	0
+#2652	正座	せいざ	sitting on one’s heels	0	0
+#2653	大喜び	おおよろこび	great joy	0	0
+#2654	落とし物	おとしもの	lost property	0	0
+#2655	じゃんじゃん	じゃんじゃん	many times, repeatedly	0	0
+#2656	見違える	けんちがえる	look completely different	0	0
+#2657	合理的	ごうりてき	rational, logical	0	0
+#2658	自主的	じしゅてき	voluntary, independent	0	0
+#2659	全面的	ぜんめんてき	full-scale, complete	0	0
+#2660	円高	えんだか	strong yen	0	0
+#2661	消費者	しょうひしゃ	consumer	0	0
+#2662	日中	にっちゅう	Japan and China	0	0
+#2663	明日	あした	tomorrow (rather formal)	0	0
+#2664	結構	けっこう	all right, no thank you	0	0
+#2665	辛い	つらい	hard, painstaking	0	0
+#2666	まずい	まずい	problematic, troublesome	0	0
+#2667	上下	じょうげ	top and bottom	0	0
+#2668	生	なま	raw, fresh	0	0
+#2669	よける	よける	avoid, dodge	0	0
+#2670	がやがや	がやがや	noisily, loudly	0	0
+#2671	赤ん坊	あかんぼう	(human) baby	0	0
+#2672	ワープロ	わーぷろ	word processor	0	0
+#2673	新聞社	しんぶんしゃ	newspaper publisher	0	0
+#2674	寝かす	ねかす	put (someone) to bed	0	0
+#2675	者	もの	person (humble)	0	0
+#2676	中	なか	middle, medium size	0	0
+#2677	性	せい	gender, sexual activities	0	0
+#2678	会	かい	meeting, association	0	0
+#2679	事	こと	thing, incident	0	0
+#2680	今日	きょう	these days	0	0
+#2681	点	てん	point (of concern), dot	0	0
+#2682	バック	ばっく	back, reverse	0	0
+#2683	記事	きじ	article, story	0	0
+#2684	大	だい	big, large size	0	0
+#2685	法	ほう	law, rule	0	0
+#2686	非常	ひじょう	emergency	0	0
+#2687	ただ	ただ	simply, merely	0	0
+#2688	感じ	かんじ	feeling, impression	0	0
+#2689	環境	かんきょう	environment, surroundings	0	0
+#2690	理解	りかい	understanding, comprehension	0	0
+#2691	県	けん	prefecture	0	0
+#2692	使用	しよう	use	0	0
+#2693	主義	しゅぎ	principle, -ism	0	0
+#2694	国民	こくみん	citizen	0	0
+#2695	下	した	under (someone’s) supervision	0	0
+#2696	場	ば	occasion, situation	0	0
+#2697	労働	ろうどう	labor, work	0	0
+#2698	機会	きかい	opportunity, chance	0	0
+#2699	製品	せいひん	product, manufactured goods	0	0
+#2700	自身	じしん	self	0	0
+#2701	かかる	かかる	catch (a cold, etc.), come down with	0	0
+#2702	求める	もとめる	seek, yearn for	0	0
+#2703	下さる	くださる	give (honorific)	0	0
+#2704	昨日	きのう	yesterday (formal)	0	0
+#2705	元	もと	origin, former	0	0
+#2706	型	かた	type, model	0	0
+#2707	それぞれ	それぞれ	each, respectively	0	0
+#2708	地方	ちほう	local region	0	0
+#2709	面	めん	surface, side	0	0
+#2710	実は	じつは	actually	0	0
+#2711	夜	よる	night, evening	0	0
+#2712	地	ち	ground, place	0	0
+#2713	議論	ぎろん	discussion, debate	0	0
+#2714	以前	いぜん	before, ago	0	0
+#2715	専門	せんもん	specialty, profession	0	0
+#2716	申し上げる	もうしあげる	tell, say (humble)	0	0
+#2717	行動	こうどう	action, conduct	0	0
+#2718	率	りつ	ratio, rate	0	0
+#2719	監督	かんとく	supervisor, film director	0	0
+#2720	意識	いしき	consciousness, awareness	0	0
+#2721	認める	みとめる	recognize, permit	0	0
+#2722	参考	さんこう	reference, consultation	0	0
+#2723	チーム	ちーむ	team	0	0
+#2724	現実	げんじつ	reality	0	0
+#2725	価値	かち	value, worth	0	0
+#2726	テーマ	てーま	theme, subject matter	0	0
+#2727	含む	ふくむ	contain, include	0	0
+#2728	際	きわ	opportunity, time	0	0
+#2729	全て	すべて	all, everything	0	0
+#2730	大臣	だいじん	minister	0	0
+#2731	国家	こっか	state, nation	0	0
+#2732	試合	しあい	match, game	0	0
+#2733	結局	けっきょく	after all, finally	0	0
+#2734	消費	しょうひ	consumption, spending	0	0
+#2735	人生	じんせい	one’s life (to lead)	0	0
+#2736	量	りょう	quantity, amount	0	0
+#2737	精神	せいしん	mind, mentality	0	0
+#2738	レベル	れべる	level	0	0
+#2739	我々	われわれ	we (literary)	0	0
+#2740	指導	しどう	guide, instruction	0	0
+#2741	明日	あした	tomorrow (very formal)	0	0
+#2742	資料	しりょう	materials, data	0	0
+#2743	団体	だんたい	group, organization	0	0
+#2744	最も	もっとも	the most	0	0
+#2745	完全	かんぜん	perfect, complete	0	0
+#2746	品	ひん	goods, item	0	0
+#2747	男性	だんせい	male, man	0	0
+#2748	軍	ぐん	military	0	0
+#2749	描く	えがく	depict, draw	0	0
+#2750	最終	さいしゅう	final, last (of something repeated)	0	0
+#2751	センター	せんたー	center (for an activity, etc.), hub	0	0
+#2752	障害	しょうがい	obstacle, disorder	0	0
+#2753	医療	いりょう	medical service, healthcare	0	0
+#2754	頂く	いただく	receive, eat (humble)	0	0
+#2755	金融	きんゆう	finance	0	0
+#2756	学ぶ	まなぶ	learn, study	0	0
+#2757	成長	せいちょう	growth	0	0
+#2758	登場	とうじょう	appearance (on stage, etc.)	0	0
+#2759	知識	ちしき	knowledge	0	0
+#2760	友人	ゆうじん	friend (formal)	0	0
+#2761	イメージ	いめーじ	image	0	0
+#2762	トップ	とっぷ	top, the best	0	0
+#2763	税	ぜい	tax	0	0
+#2764	変更	へんこう	alteration, change	0	0
+#2765	限り	かぎり	limit	0	0
+#2766	式	しき	ceremony	0	0
+#2767	展開	てんかい	development, storyline (plot)	0	0
+#2768	興味	きょうみ	interest	0	0
+#2769	含める	ふくめる	include	0	0
+#2770	編集	へんしゅう	editing	0	0
+#2771	選択	せんたく	selection, choice	0	0
+#2772	無料	むりょう	no charge, free	0	0
+#2773	身	み	body, oneself, one’s status	0	0
+#2774	分析	ぶんせき	analysis	0	0
+#2775	予算	よさん	budget	0	0
+#2776	目標	もくひょう	target, goal	0	0
+#2777	通信	つうしん	correspondence, communication	0	0
+#2778	向ける	むける	turn toward, point at	0	0
+#2779	時刻	じこく	time (formal)	0	0
+#2780	逆	ぎゃく	reverse, opposite	0	0
+#2781	最高	さいこう	supreme, best	0	0
+#2782	利益	りえき	profit, benefit	0	0
+#2783	事務	じむ	office work, business	0	0
+#2784	出版	しゅっぱん	publishing, publication	0	0
+#2785	プロ	ぷろ	professional	0	0
+#2786	様々	さまざま	various, diverse	0	0
+#2787	州	しゅう	state, province	0	0
+#2788	共通	きょうつう	commonality	0	0
+#2789	現代	げんだい	present age, modern times	0	0
+#2790	被害	ひがい	damage, harm	0	0
+#2791	新た	あらた	new, fresh	0	0
+#2792	相当	そうとう	suitability, equivalence	0	0
+#2793	更新	こうしん	renewal, update	0	0
+#2794	得る	える	obtain, gain	0	0
+#2795	内	ない	inside	0	0
+#2796	維持	いじ	maintenance, upkeep	0	0
+#2797	料金	りょうきん	charge, fee (for using facilities, etc.)	0	0
+#2798	到着	とうちゃく	arrival	0	0
+#2799	なま物	なまもの	uncooked food	0	0
+#2800	章	しょう	chapter	0	0
+#2801	メンバー	めんばー	member	0	0
+#2802	演奏	えんそう	musical performance	0	0
+#2803	案	あん	plan, idea	0	0
+#2804	希望	きぼう	hope, wish	0	0
+#2805	記憶	きおく	memory, remembrance	0	0
+#2806	モデル	もでる	model	0	0
+#2807	方々	かたがた	people (polite)	0	0
+#2808	発売	はつばい	launch, release (of a product)	0	0
+#2809	話題	わだい	topic of conversation, being talked about	0	0
+#2810	目指す	めざす	aim for	0	0
+#2811	建築	けんちく	construction, architecture	0	0
+#2812	印象	いんしょう	impression	0	0
+#2813	権利	けんり	right, privilege	0	0
+#2814	学習	がくしゅう	study, learning	0	0
+#2815	発展	はってん	development, expansion	0	0
+#2816	現場	げんば	scene, job site	0	0
+#2817	気分	きぶん	feeling, mood	0	0
+#2818	移動	いどう	movement, shift	0	0
+#2819	発行	はっこう	publication, issue	0	0
+#2820	宗教	しゅうきょう	religion	0	0
+#2821	改正	かいせい	revision, amendment	0	0
+#2822	倍	ばい	double, times	0	0
+#2823	不安	ふあん	uneasy, worried	0	0
+#2824	自ら	みずから	(for) oneself, personally	0	0
+#2825	広告	こうこく	advertisement	0	0
+#2826	共同	きょうどう	joint, cooperation	0	0
+#2827	年代	ねんだい	generation, era	0	0
+#2828	タイプ	たいぷ	type	0	0
+#2829	差	さ	difference	0	0
+#2830	営業	えいぎょう	business, sales	0	0
+#2831	役割	やくわり	role, duty, responsibility	0	0
+#2832	改善	かいぜん	improvement	0	0
+#2833	撮影	さつえい	photographing, shoot	0	0
+#2834	エネルギー	えねるぎー	energy	0	0
+#2835	憲法	けんぽう	constitution, constitutional law	0	0
+#2836	感謝	かんしゃ	gratitude, thanks	0	0
+#2837	感覚	かんかく	sense, feel	0	0
+#2838	旅	たび	journey, travel	0	0
+#2839	合わせる	あわせる	match (something), adapt (oneself)	0	0
+#2840	既に	すでに	already	0	0
+#2841	現状	げんじょう	current condition, situation	0	0
+#2842	先日	せんじつ	the other day, a few days ago	0	0
+#2843	中央	ちゅうおう	center, middle	0	0
+#2844	似る	にる	resemble, be alike	0	0
+#2845	平均	へいきん	average	0	0
+#2846	末	まつ	the end, in the end	0	0
+#2847	追加	ついか	addition, supplement	0	0
+#2848	なさる	なさる	do (honorific)	0	0
+#2849	様子	ようす	the state of affairs, how someone appears	0	0
+#2850	活用	かつよう	practical use, application	0	0
+#2851	交換	こうかん	exchange, bartering	0	0
+#2852	整備	せいび	maintenance	0	0
+#2853	想像	そうぞう	imagination	0	0
+#2854	ああ	ああ	like that, that much	0	0
+#2855	満足	まんぞく	satisfaction, contentment	0	0
+#2856	以降	いこう	thereafter, later than	0	0
+#2857	比較	ひかく	comparison	0	0
+#2858	クラス	くらす	class, category	0	0
+#2859	犯罪	はんざい	offense, crime	0	0
+#2860	おっしゃる	おっしゃる	say, tell (honorific)	0	0
+#2861	特定	とくてい	specifying, identifying	0	0
+#2862	基礎	きそ	base, foundation	0	0
+#2863	流れ	ながれ	flow, stream	0	0
+#2864	どうも	どうも	for no special reason, somehow	0	0
+#2865	村	むら	village	0	0
+#2866	安定	あんてい	stability, composure	0	0
+#2867	本人	ほんにん	the person himself, the said person	0	0
+#2868	雰囲気	ふんいき	atmosphere, mood	0	0
+#2869	会場	かいじょう	venue, site	0	0
+#2870	電子	でんし	electron, electronic	0	0
+#2871	文	ぶん	sentence	0	0
+#2872	範囲	はんい	range, scope	0	0
+#2873	常に	つねに	always, at all times (formal)	0	0
+#2874	失う	うしなう	lose, miss	0	0
+#2875	日常	にちじょう	everyday life, daily life	0	0
+#2876	回答	かいとう	reply, answer	0	0
+#2877	体制	たいせい	system, structure	0	0
+#2878	調整	ちょうせい	regulation, adjustment	0	0
+#2879	疑問	ぎもん	question, doubt	0	0
+#2880	応援	おうえん	support, cheering	0	0
+#2881	感想	かんそう	thought, impression	0	0
+#2882	解説	かいせつ	explanation, commentary	0	0
+#2883	シリーズ	しりーず	series	0	0
+#2884	公共	こうきょう	public, community	0	0
+#2885	民間	みんかん	private, civilian	0	0
+#2886	裁判	さいばん	trial, judgment	0	0
+#2887	組合	くみあい	union, guild	0	0
+#2888	本来	ほんらい	originally, primarily	0	0
+#2889	一体	いったい	what on earth	0	0
+#2890	宇宙	うちゅう	universe, space	0	0
+#2891	申す	もうす	say, tell (humble)	0	0
+#2892	図	ず	figure, diagram	0	0
+#2893	クラブ	くらぶ	club	0	0
+#2894	観光	かんこう	sightseeing	0	0
+#2895	提出	ていしゅつ	presentation, submission (of a report, plan, etc.)	0	0
+#2896	以来	いらい	since then	0	0
+#2897	離れる	はなれる	get away from	0	0
+#2898	生	なま	life, living	0	0
+#2899	性格	せいかく	character, personality	0	0
+#2900	検査	けんさ	inspection, examination	0	0
+#2901	信頼	しんらい	reliance, trust	0	0
+#2902	人物	じんぶつ	character, person	0	0
+#2903	触れる	ふれる	touch, come in contact with	0	0
+#2904	記念	きねん	commemoration, memory	0	0
+#2905	役	やく	role, part	0	0
+#2906	費用	ひよう	expense, cost	0	0
+#2907	指定	してい	designation, appointment	0	0
+#2908	感情	かんじょう	feeling, emotion	0	0
+#2909	空	そら	emptiness, hollow	0	0
+#2910	関わる	かかわる	be involved, be concerned	0	0
+#2911	仲間	なかま	comrade, peer	0	0
+#2912	整理	せいり	putting something in order, sorting out	0	0
+#2913	至る	いたる	come to, reach	0	0
+#2914	独立	どくりつ	independence, self-reliance	0	0
+#2915	賞	しょう	prize, award	0	0
+#2916	誕生	たんじょう	birth	0	0
+#2917	いらっしゃる	いらっしゃる	come, go (honorific)	0	0
+#2918	都	みやこ	metropolis of Tokyo	0	0
+#2919	全員	ぜんいん	all members, entire staff	0	0
+#2920	明確	めいかく	clear and specific	0	0
+#2921	少なくとも	すくなくとも	at least, at a minimum	0	0
+#2922	セット	せっと	set	0	0
+#2923	魅力	みりょく	charm, attraction	0	0
+#2924	きちんと	きちんと	properly, neatly	0	0
+#2925	手段	しゅだん	means, way	0	0
+#2926	有効	ゆうこう	effective, valid	0	0
+#2927	集中	しゅうちゅう	concentration, convergence	0	0
+#2928	現象	げんしょう	phenomenon	0	0
+#2929	感動	かんどう	to be impressed, to be touched	0	0
+#2930	禁止	きんし	prohibition, forbiddance	0	0
+#2931	会員	かいいん	member (of an association, society, etc.)	0	0
+#2932	過ごす	すごす	spend (time)	0	0
+#2933	納得	なっとく	to fully understand and accept	0	0
+#2934	収入	しゅうにゅう	income	0	0
+#2935	レポート	れぽーと	report, paper	0	0
+#2936	年齢	ねんれい	age	0	0
+#2937	舞台	ぶたい	stage, setting	0	0
+#2938	交通	こうつう	traffic, transportation	0	0
+#2939	他人	たにん	other people, stranger	0	0
+#2940	組	くみ	school class, group, pair	0	0
+#2941	否定	ひてい	denial, negation	0	0
+#2942	扱う	あつかう	handle, deal with	0	0
+#2943	修正	しゅうせい	correction, revision	0	0
+#2944	一応	いちおう	tentatively, just in case	0	0
+#2945	生じる	しょうじる	happen, occur	0	0
+#2946	訪問	ほうもん	visit	0	0
+#2947	引用	いんよう	quotation, citation	0	0
+#2948	芸術	げいじゅつ	art, arts and crafts	0	0
+#2949	解釈	かいしゃく	interpretation, explanation	0	0
+#2950	行	ぎょう	line, row	0	0
+#2951	結論	けつろん	conclusion	0	0
+#2952	困難	こんなん	difficulty, hardship	0	0
+#2953	回復	かいふく	recovery, recuperation	0	0
+#2954	適用	てきよう	application, coverage	0	0
+#2955	集団	しゅうだん	group, mass	0	0
+#2956	事態	じたい	situation, state of affairs	0	0
+#2957	スタート	すたーと	start, begin	0	0
+#2958	更に	さらに	furthermore, still more	0	0
+#2959	活躍	かつやく	(successful) performance, action	0	0
+#2960	命	いのち	life (colloquial)	0	0
+#2961	医師	いし	doctor, physician (formal)	0	0
+#2962	おる	おる	be present, stay (humble)	0	0
+#2963	現れる	あらわれる	appear, emerge	0	0
+#2964	講演	こうえん	lecture, talk	0	0
+#2965	瞬間	しゅんかん	moment	0	0
+#2966	交流	こうりゅう	interaction, contact	0	0
+#2967	標準	ひょうじゅん	standard, norm	0	0
+#2968	まるで	まるで	just like	0	0
+#2969	スタイル	すたいる	style, physique	0	0
+#2970	関心	かんしん	concern, interest	0	0
+#2971	取り上げる	とりあげる	take, confiscate	0	0
+#2972	伝統	でんとう	tradition	0	0
+#2973	民主	みんしゅ	democracy	0	0
+#2974	制限	せいげん	restriction, limit	0	0
+#2975	投票	とうひょう	vote, ballot	0	0
+#2976	心理	しんり	mentality, psychology	0	0
+#2977	大体	だいたい	about, anyway	0	0
+#2978	突然	とつぜん	suddenly	0	0
+#2979	思想	しそう	thought, conception	0	0
+#2980	応じる	おうじる	answer, comply with	0	0
+#2981	不足	ふそく	lack, shortage	0	0
+#2982	コード	こーど	cord	0	0
+#2983	世の中	よのなか	the world, society	0	0
+#2984	項目	こうもく	item, topic	0	0
+#2985	旧	きゅう	old, former	0	0
+#2986	次第	しだい	as soon as	0	0
+#2987	長期	ちょうき	long period	0	0
+#2988	著者	ちょしゃ	author, writer	0	0
+#2989	罪	つみ	crime, sin	0	0
+#2990	楽	らく	comfortable, easy	0	0
+#2991	操作	そうさ	operation, manipulation	0	0
+#2992	支配	しはい	control, rule	0	0
+#2993	態度	たいど	attitude	0	0
+#2994	過程	かてい	process, course	0	0
+#2995	バランス	ばらんす	balance	0	0
+#2996	連続	れんぞく	continuation, series	0	0
+#2997	機関	きかん	agency, facility	0	0
+#2998	論	ろん	argument, theory	0	0
+#2999	島	しま	island	0	0

@@ -1,0 +1,22 @@
+TARGET = App.exe
+SRCS = main.cpp
+OBJS = $(SRCS:.cpp=.o)
+CXX = /mingw64/bin/x86_64-w64-mingw32-g++
+      # ✅ Use MinGW-w64 compiler
+CXXFLAGS = -Wall -g -mconsole
+SDL_CFLAGS = -I/mingw64/include/SDL2
+SDL_LIBS = -L/mingw64/lib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_image -lSDL2_gfx
+# -lSDL2_gfx
+
+.PHONY: all clean
+
+all: $(TARGET)
+
+$(TARGET): $(OBJS)
+	$(CXX) $(CXXFLAGS) $(OBJS) $(SDL_LIBS) -o $@
+
+%.o: %.cpp
+	$(CXX) $(CXXFLAGS) $(SDL_CFLAGS) -c $< -o $@
+
+clean:
+	rm -f $(OBJS) $(TARGET)
